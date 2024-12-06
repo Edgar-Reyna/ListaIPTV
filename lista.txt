@@ -1,0 +1,12 @@
+AZTECA UNO,https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+AZTECA UNO OP2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+AZTECA 7  OP2,https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+MULTIMEDIOS MONTERREY,https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+RCN,https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+Telemundo,https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+3ABN Latino,https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+ADN 40,https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+Agro TV,https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+France 24 Espanol,https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
+Genios TV,https://live.obslivestream.com/geniostvmux/index.m3u8
+Pequeradio,https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
