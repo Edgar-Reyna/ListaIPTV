@@ -1,5 +1,3 @@
 Cantina TV,https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 AZTECA 7  OP2,https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-France 24 Espanol,https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
-Genios TV,https://live.obslivestream.com/geniostvmux/index.m3u8
-Pequeradio,https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
