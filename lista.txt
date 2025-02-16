@@ -5,4 +5,3 @@ Azteca Uno,https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 Las Estrellas,https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 Azteca 7,https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 Canal 4, https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
-Lucha Libre AAA,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8
