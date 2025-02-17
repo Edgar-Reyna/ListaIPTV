@@ -14,7 +14,6 @@ DW (Español),https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/
 RT (Español),https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 Cantina TV,https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 La Que Buena Atlanta,https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
-Teleritmo,http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 VM Latino,https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 Stingray Classica,https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 Xtrema Animal,https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
@@ -22,9 +21,10 @@ Love Nature,https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254d
 FMTV,https://s2.tvdatta.com:3307/hybrid/play.m3u8
 CNC TV,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
 Cine Sony,https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-MX Nuestro Cine,https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
-Canal 6 MTY,https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 Canal 28 NL,https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-Multimedios Monterrey,https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 Neox TV,https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 Canal 15 Sabinas,https://cdn.fastocloud.com/leonel.m3u8
+MULTIMEDIOS MTY,https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+ESTRELLA TV,https://estrellatv-roku.amagi.tv/playlist.m3u8
+Telemundo,https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+DE PELICULAS,http://190.60.38.114:1010/play/a08f/index.m3u8
