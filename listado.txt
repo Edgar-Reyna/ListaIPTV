@@ -1,4 +1,5 @@
 Canal 4,https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
+Canal 15 Sabinas,https://cdn.fastocloud.com/leonel.m3u8
 AZTECA UNO,https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 AZTECA UNO OP2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 AZTECA 7  OP2,https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
