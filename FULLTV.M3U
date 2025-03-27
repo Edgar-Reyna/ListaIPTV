@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Canal 4
+#EXTINF:-1,Canal 4 Monclova
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
 #EXTINF:-1,Canal 15 Sabinas
 https://cdn.fastocloud.com/leonel.m3u8
@@ -657,3 +657,19 @@ https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png", Alcance TV | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="MEXICO",AZ CINEMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="NOVELAS",TELETICA
+http://zorrohunter.com:8080/haw5UJfF68/1729172230/46826
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/340?cb=20200125124642&path-prefix=es" group-title="CARTOONS",LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.nintenderos.com/wp-content/uploads/2023/02/pelicula-marios.jpg" group-title="MOVIES ESTRENOS HD",SUPER MARIO BROS: LA PELICULA
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/paramountpictures/dungeons-and-dragons-honor-among-thieves/images/regions/mx/share.jpg" group-title="MOVIES ESTRENOS HD",CALABOZOS Y DRAGONES: HONOR ENTRE LADRONES
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis/abril/Ver%20Calabozos%20&%20Dragones-%20Honor%20entre%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2023/04/07/1840326219.png" group-title="MOVIES ESTRENOS HD",CAZADOR DE TORNADOS
+http://158.69.224.17:88/edmian/Supercell.2023.720p%20(1).mkv
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2023/04/siete-reyes-deben-morir-netflix-3014018.jpg?itok=UXHgtFJG" group-title="MOVIES ESTRENOS HD",SIETE REYES DEBEN MORIR
+http://45.179.164.59:8181/Peliculas/2023/The.Last.Kingdom.Seven.Kings.Must.Die.2023.720p-dual-lat/The.Last.Kingdom.Seven.Kings.Must.Die.2023.720p-dual-lat.mkv
+#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/lionsgateus/jesus-revolution/images/regions/us/share.jpg" group-title="MOVIES ESTRENOS HD",JESUS REVOLUCIÓN
+http://158.69.224.17:88/edmian/Jesus.Revolution.2023.720p%20(1).mkv
