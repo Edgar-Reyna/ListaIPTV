@@ -25,5 +25,3 @@ Canal 28 NL,https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 Neox TV,https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 Canal 15 Sabinas,https://cdn.fastocloud.com/leonel.m3u8
 Telemundo,https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-Locomotion,
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
