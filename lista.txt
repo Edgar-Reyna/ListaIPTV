@@ -35,12 +35,7 @@ US AL JAZEERA EN,https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 PR PUNTO 2,https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 GT TV AZTECA GUATE,https://ch1-tva.duin.dev/hls/stream.m3u8
 BO BOLIVISION,https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
-CA CTV,http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
-US UNIVISION,http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
-American Heroes Channel,http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-Animal Planet,http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 US TELEMUNDO 51 MIAMI,https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-FUTBOL 02,http://181.78.105.146:2000/play/a08m/index.m3u8
 AGS CANAL 26,https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 CANAL 66 MEXICALI,https://60417ddeaf0d9.streamlock.net/canal66/videocanal66/playlist.m3u8
 CAM TRC,https://5f1af61612fb5.streamlock.net/trc/videotrc/playlist.m3u8
@@ -54,8 +49,6 @@ DGO CANAL 10,https://5e50264bd6766.streamlock.net/canal10durango/videocanal10dur
 EDOMEX AMX,https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 GTO TV 4.1,https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 GTO TV 4.2,https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-MICH SMRT,https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-PUE MULTIMEDIOS PUEBLA,https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 QOO CANAL 10 CANCUN,https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 QOO SIPSE,https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 TAB TV UJAT,https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
@@ -73,7 +66,5 @@ ROMANCE LATINO,https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtv
 REMEMBER THE 80s,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742
 GREATEST HITS,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
 COUNTRY,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118
-VIX LALIGA,http://45.68.35.218:4001/play/a01s/index.m3u8
 Azteca Uno,https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 Azteca Uno - 1H,https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
-US TUDN,http://45.68.35.218:4001/play/a00x/index.m3u8
