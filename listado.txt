@@ -129,3 +129,28 @@ ROMANCE LATINO,https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtv
 REMEMBER THE 80s,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742
 GREATEST HITS,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
 COUNTRY,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118
+Inspiration,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8
+Natura,http://185.57.68.33:8091/232/playlist.m3u8
+Yahoo! Finance,https://yahoo-plex.amagi.tv/playlist.m3u8
+Bloomberg tv,https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61de991729cd4a00079f812b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+Sky News,https://is.gd/CHzw32?SkyNews.m3u8
+FOX 11 Los Angeles,https://live-manifest.production-public.tubi.io/live/346a3973-426a-45dc-85fd-a598cc9d1487/playlist.m3u8
+Zoomoo,https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+Lego Kids,https://is.gd/TH0DFt?(cc)o_Kids.m3u8
+Punt 3 Vall Uxo,https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+TVG Xabarin,https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+Mr. Bean,https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+CGTN Español,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+A3Player Clasicos,https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
+A3Player Comedia,https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
+A3Player Mentes Inquietas,https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+A3Player Equipo Investigacion,https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
+flooxer,https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+Star tve,https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+La 2,https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+3/24,https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+El Toro TV,https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+ETB 1,https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+Sala de Emergencias,https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+Novelisima,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+The Pet Collective,https://bit.ly/3sYLlrg?profile=inspirationFreetv.m3u8
