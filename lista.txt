@@ -8,8 +8,6 @@ Canal 4 Mva, https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/pla
 RCG Saltillo,https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
 Canal 15 Sabinas,https://cdn.fastocloud.com/leonel.m3u8
 Telemundo,https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-US TELEMUNDO 51 MIAMI,https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-Platzi TV,https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+Telemundo Miami,https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 MX N+ MTY,https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
 MX TUBI FOX SPORTS,https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
-La liga Inside,https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
