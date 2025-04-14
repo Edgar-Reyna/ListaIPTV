@@ -1064,3 +1064,8 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1, Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1,24 Horas
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_360.m3u8
+#EXTINF:-1,8NTV
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w1674309445.m3u8
+
