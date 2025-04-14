@@ -10,4 +10,17 @@ Telemundo,https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream
 Telemundo Miami,https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 MX N+ MTY,https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
 ITV Deportes,https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
 MX TUBI FOX SPORTS,https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
+Love Nature,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=68ca370d-cd25-11eb-8a72-0242ac110002&sid=68ca370d-cd25-11eb-8a72-0242ac110002&userId=
+Discovery,http://181.78.105.146:2000/play/a03x/index.m3u8
+NatGeo,http://181.78.105.146:2000/play/a01l/index.m3u8
+History,http://181.78.105.146:2000/play/a017/index.m3u8
+History2,http://181.78.105.146:2000/play/a00v/index.m3u8
+
+Cantina TV,https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+TELERITMO,https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+Vevo Regional Mexicano,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+24 Horas,https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_360.m3u8
+8NTV,https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w1674309445.m3u8
