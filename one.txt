@@ -1,1 +1,4 @@
 Canal 4,https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
+MX TUBI FOX SPORTS,https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
+ITV Deportes,https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+Azteca 7,https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
