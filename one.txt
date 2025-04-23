@@ -1,8 +1,4 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="POKEMON" , POKEMON
-http://0.0.0.0
-
-#EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 001
+EPISODIO 001,
 http://cdn1.animeai2.net/cdn/video?asd=1/P/pokemon-dublado/01.MP4
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/2oKOYJe.jpg" group-title="POKEMON" , EPISODIO 002
