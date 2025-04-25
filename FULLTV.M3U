@@ -941,3 +941,26 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_360.m3u8
 #EXTINF:-1,8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w1674309445.m3u8
 
+#EXTINF:-1,Juvenal English
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1,ESPN 2 HD
+http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://181.78.82.6:46090/play/a01l/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://181.78.82.6:46090/play/a01c/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:-1,ESPN 7 HD
+http://181.78.82.6:46090/play/a01d/index.m3u8
+#EXTINF:-1,ESPN COL HD
+http://181.78.82.6:46090/play/a04f/index.m3u8
+#EXTINF:-1,ESPN ARG HD
+http://181.78.82.6:46090/play/a00q/index.m3u8
+#EXTINF:-1,ESPN CHI HD
+http://181.78.82.6:46090/play/a03d/index.m3u8
+#EXTINF:-1,ESPN PREMIUM HD
+http://181.78.82.6:46090/play/a02g/index.m3u8
