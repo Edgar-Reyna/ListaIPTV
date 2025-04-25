@@ -948,8 +948,30 @@ http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1,ESPN 3 HD
 http://181.78.82.6:46090/play/a00v/index.m3u8
+
+#EXTINF:-1,ESPN 4 HD
+http://45.169.39.162:8000/play/a02s/index.m3u8
+#EXTINF:-1,ESPN 5
+http://45.169.39.162:8000/play/a04b/index.m3u8
+
 #EXTINF:-1,ESPN 6 HD
 http://181.78.82.6:46090/play/a00w/index.m3u8
+
+#EXTINF:-1,ESPN HD
+http://45.169.39.162:8000/play/a02w/index.m3u8
+#EXTINF:-1,ESPN Premium HD
+http://45.169.39.162:8000/play/a01v/index.m3u8
+
 #EXTINF:-1,ESPN ARG HD
 http://181.78.82.6:46090/play/a00q/index.m3u8
 
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://45.169.39.162:8000/play/a03b/index.m3u8
+#EXTINF:-1,UNIVISION HD
+http://45.169.39.162:8000/play/a02e/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://45.169.39.162:8000/play/a044/index.m3u8
+#EXTINF:-1,Win Sports HD
+http://45.169.39.162:8000/play/a00a/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://45.169.39.162:8000/play/a03d/index.m3u8
