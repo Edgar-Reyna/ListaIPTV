@@ -4,8 +4,6 @@ Azteca Uno - 1H,https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464
 Azteca 7,https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 Azteca Internacional,https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 Canal 4 Mva, https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
-RCG Saltillo,https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
-Canal 15 Sabinas,https://cdn.fastocloud.com/leonel.m3u8
 Telemundo,https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 Telemundo Miami,https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 MX N+ MTY,https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
