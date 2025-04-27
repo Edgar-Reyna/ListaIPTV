@@ -54,39 +54,6 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1,RadioTV.pro
 https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, Run Time Latino
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
-#EXTINF:-1, Run Time Films
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1, Run Time Espanyol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
-#EXTINF:-1, Run Time Cine y Series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:-1, Run Time Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
-#EXTINF:-1, Run Time Terror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:-1, Run Time Crimen
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
-#EXTINF:-1, Run Time Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-#EXTINF:-1, Run Time Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-#EXTINF:-1, Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
-#EXTINF:-1, Canela Network
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-#EXTINF:-1, Canela Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
-#EXTINF:-1, Canela Novelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1, Canela Clásicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1, Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1, Canela Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-
 
 #EXTINF:-1,PTV CINE ACCION
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=397886a0-cd21-11eb-bd6e-0242ac110002&sid=397886a0-cd21-11eb-bd6e-0242ac110002&userId=
@@ -853,6 +820,39 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1,Rocktv
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
+#EXTINF:-1, Run Time Latino
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1, Run Time Films
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1, Run Time Espanyol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1, Run Time Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:-1, Run Time Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:-1, Run Time Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:-1, Run Time Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:-1, Run Time Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:-1, Run Time Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:-1, Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1, Canela Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+#EXTINF:-1, Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+#EXTINF:-1, Canela Novelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1, Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1, Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1, Canela Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
 
 #EXTINF:-1, ITV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
@@ -961,6 +961,25 @@ http://181.78.82.6:46090/play/a00q/index.m3u8
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
 #EXTINF:-1, LCDLF 2
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
+
+#EXTINF:-1, Wapp
+http://clubtv.link/abr2604/phpcode/distro.php?c=wapptv
+#EXTINF:-1, El Conflicto TV
+http://clubtv.link/abr2604/phpcode/distro.php?c=el-conflicto-tv
+#EXTINF:-1, Glewedtv Spanish
+http://clubtv.link/abr2604/phpcode/distro.php?c=glewedtv-spanish
+#EXTINF:-1, La Bocina Latina
+http://clubtv.link/abr2604/phpcode/distro.php?c=la-bocina-latina
+#EXTINF:-1, Trace Latina
+http://clubtv.link/abr2604/phpcode/distro.php?c=trace-latina
+#EXTINF:-1, FreeTV Hits
+http://clubtv.link/abr2604/phpcode/distro.php?c=freetv-hits
+#EXTINF:-1, XFT TV
+http://clubtv.link/abr2604/phpcode/distro.php?c=xfc-tv
+#EXTINF:-1, Drama
+http://clubtv.link/abr2604/phpcode/distro.php?c=freetv-drama-latam
+#EXTINF:-1, Pitufo TV
+http://clubtv.link/abr2604/phpcode/distro.php?c=pitufo-tv
 
 
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME
@@ -1139,23 +1158,3 @@ http://clubtv.link/abr2604/phpcode/lista0.php?c=92&token=Tecnoplus11&f=.m3u8
 https://mx1.gt-app.com70&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Tigo Sport
 http://clubtv.link/abr2604/phpcode/lista0.php?c=62&token=Tecnoplus11&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
-http://clubtv.link/abr2604/phpcode/distro.php?c=wapptv
-#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
-http://clubtv.link/abr2604/phpcode/distro.php?c=el-conflicto-tv
-#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
-http://clubtv.link/abr2604/phpcode/distro.php?c=glewedtv-spanish
-#EXTINF:-1 tvg-logo="https://imgur.com/h5FABgC.png" group-title="DISTRO TV",La Bocina Latina
-http://clubtv.link/abr2604/phpcode/distro.php?c=la-bocina-latina
-#EXTINF:-1 tvg-logo="https://imgur.com/yc3nhlP.png" group-title="DISTRO TV",trace Latina
-http://clubtv.link/abr2604/phpcode/distro.php?c=trace-latina
-#EXTINF:-1 tvg-logo="https://imgur.com/HTNpaS8.png" group-title="DISTRO TV",FreeTV Hits
-http://clubtv.link/abr2604/phpcode/distro.php?c=freetv-hits
-#EXTINF:-1 tvg-logo="https://imgur.com/3GDuhMn.png" group-title="DISTRO TV",XFT TV
-http://clubtv.link/abr2604/phpcode/distro.php?c=xfc-tv
-#EXTINF:-1 tvg-logo="https://imgur.com/CBFAltb.png" group-title="DISTRO TV",Drama
-http://clubtv.link/abr2604/phpcode/distro.php?c=freetv-drama-latam
-#EXTINF:-1 tvg-logo="https://imgur.com/GsXkH1B.png" group-title="DISTRO TV",Pitufo TV
-http://clubtv.link/abr2604/phpcode/distro.php?c=pitufo-tv
