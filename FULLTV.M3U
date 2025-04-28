@@ -982,14 +982,8 @@ http://clubtv.link/abr2604/phpcode/distro.php?c=freetv-drama-latam
 http://clubtv.link/abr2604/phpcode/distro.php?c=pitufo-tv
 
 
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME
-http://clubtv.link/abr2604/phpcode/lista0.php?c=32&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CINEMA
-http://clubtv.link/abr2604/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIER
 http://clubtv.link/abr2604/phpcode/lista0.php?c=31&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY
-http://clubtv.link/abr2604/phpcode/lista0.php?c=35&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CHANNEL
 http://clubtv.link/abr2604/phpcode/lista0.php?c=38&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", HBO PLUS
@@ -1034,16 +1028,12 @@ http://clubtv.link/abr2604/phpcode/lista0.php?c=26&token=Tecnoplus11&f=.m3u8
 http://clubtv.link/abr2604/phpcode/lista0.php?c=25&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", PARAMOUNT CHANNEL
 http://clubtv.link/abr2604/phpcode/lista0.php?c=12&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", SYFY
-http://clubtv.link/abr2604/phpcode/lista0.php?c=9&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FX
 http://clubtv.link/abr2604/phpcode/lista0.php?c=27&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", UNIVISION
 http://clubtv.link/abr2604/phpcode/lista0.php?c=3&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", SONY
 http://clubtv.link/abr2604/phpcode/lista0.php?c=11&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", ANIMAL PLANET
-http://clubtv.link/abr2604/phpcode/lista0.php?c=56&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", A&E
 http://clubtv.link/abr2604/phpcode/lista0.php?c=58&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", WARNER
@@ -1054,78 +1044,40 @@ http://clubtv.link/abr2604/phpcode/lista0.php?c=7&token=Tecnoplus11&f=.m3u8
 http://clubtv.link/abr2604/phpcode/lista0.php?c=33&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL
 http://clubtv.link/abr2604/phpcode/lista0.php?c=37&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UNIVERSO
-http://clubtv.link/abr2604/phpcode/lista0.php?c=68&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", TLNOVELAS
 http://clubtv.link/abr2604/phpcode/lista0.php?c=69&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", STUDIO UNIVERSAL
 http://clubtv.link/abr2604/phpcode/lista0.php?c=70&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", RCN
 http://clubtv.link/abr2604/phpcode/lista0.php?c=71&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TCM
-http://clubtv.link/abr2604/phpcode/lista0.php?c=73&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", CLARO CINEMA
-http://clubtv.link/abr2604/phpcode/lista0.php?c=83&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", CINE LATINO
-http://clubtv.link/abr2604/phpcode/lista0.php?c=84&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CINE DINAMITA
 http://clubtv.link/abr2604/phpcode/lista0.php?c=85&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CARACOL
 http://clubtv.link/abr2604/phpcode/lista0.php?c=86&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", AZ MUNDO
-http://clubtv.link/abr2604/phpcode/lista0.php?c=87&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISNEY CHANNEL
 http://clubtv.link/abr2604/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISCOVERY KIDS
 http://clubtv.link/abr2604/phpcode/lista0.php?c=45&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", CARTOON NETWORK
 http://clubtv.link/abr2604/phpcode/lista0.php?c=51&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TOONCAST
-http://clubtv.link/abr2604/phpcode/lista0.php?c=14&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", NICK  JR
 http://clubtv.link/abr2604/phpcode/lista0.php?c=13&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DISNEY JR
 http://clubtv.link/abr2604/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", AZTECA UNO
-http://clubtv.link/abr2604/phpcode/lista0.php?c=1&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", AZTECA 7
-http://clubtv.link/abr2604/phpcode/lista0.php?c=54&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", CANAL 5
-http://clubtv.link/abr2604/phpcode/lista0.php?c=52&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", DE PELICULA
 http://clubtv.link/abr2604/phpcode/lista0.php?c=48&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", LAS ESTRELLAS
-http://clubtv.link/abr2604/phpcode/lista0.php?c=17&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ESPN 1 MX
 http://clubtv.link/abr2604/phpcode/lista0.php?c=41&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ESPN 2 MX
 http://clubtv.link/abr2604/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ESPN 3 MX
 http://clubtv.link/abr2604/phpcode/lista0.php?c=39&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", FOX SPORTS 1 MX
-http://clubtv.link/abr2604/phpcode/lista0.php?c=30&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", FOX SPORTS 3 MX
 http://clubtv.link/abr2604/phpcode/lista0.php?c=28&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", TDN
-http://clubtv.link/abr2604/phpcode/lista0.php?c=8&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", UDN
-http://clubtv.link/abr2604/phpcode/lista0.php?c=4&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", AFIZZIONADOS
-http://clubtv.link/abr2604/phpcode/lista0.php?c=72&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", WWE NETWORK
 http://clubtv.link/abr2604/phpcode/lista0.php?c=65&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", WIN SPORTS +
-http://clubtv.link/abr2604/phpcode/lista0.php?c=66&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", WIN SPORTS
 http://clubtv.link/abr2604/phpcode/lista0.php?c=67&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", NBA TV
-http://clubtv.link/abr2604/phpcode/lista0.php?c=74&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", GOLTV
-http://clubtv.link/abr2604/phpcode/lista0.php?c=76&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", LA LIGA
-http://clubtv.link/abr2604/phpcode/lista0.php?c=75&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", FORMULA 1
-http://clubtv.link/abr2604/phpcode/lista0.php?c=81&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ESPN SUR
 http://clubtv.link/abr2604/phpcode/lista0.php?c=77&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", ESPN 2 SUR
@@ -1140,21 +1092,12 @@ http://clubtv.link/abr2604/phpcode/lista0.php?c=89&token=Tecnoplus11&f=.m3u8
 http://clubtv.link/abr2604/phpcode/lista0.php?c=88&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Boomerang
 http://clubtv.link/abr2604/phpcode/lista0.php?c=53&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Distrito Comedia
-http://clubtv.link/abr2604/phpcode/lista0.php?c=42&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Espn plus
-http://clubtv.link/abr2604/phpcode/lista0.php?c=64&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Universal Comedy
-http://clubtv.link/abr2604/phpcode/lista0.php?c=34&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Universal Reality
-http://clubtv.link/abr2604/phpcode/lista0.php?c=34&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", fox sports 2 mx
 http://clubtv.link/abr2604/phpcode/lista0.php?c=29&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Hbo 2
 http://clubtv.link/abr2604/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM", Nick
 http://clubtv.link/abr2604/phpcode/lista0.php?c=92&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM", Studio Universal
-https://mx1.gt-app.com70&token=Tecnoplus11&f=.m3u8
+
 #EXTINF:-1 group-title="TV PREMIUM", Tigo Sport
 http://clubtv.link/abr2604/phpcode/lista0.php?c=62&token=Tecnoplus11&f=.m3u8
