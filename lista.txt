@@ -25,3 +25,4 @@ Love Nature, https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254
 
 Drone TV, https://airvuz-dronetv-1-eu.zeasn.wurl.tv/playlist.m3u8
 AYM Sports, https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+TCS+, https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
