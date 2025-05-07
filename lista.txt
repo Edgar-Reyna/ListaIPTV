@@ -12,17 +12,13 @@ N+ MTY,https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3
 ITV Deportes,https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 TUBI FX SPORTS,https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
 Cantina TV,https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-3ABN Latino,https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
 Toon Goggles, https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-Zoomoo, https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
-Disney XD East,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-Mr. Bean, https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
 
 Xtrema Animal, https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 Love Nature, https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 
-Drone TV, https://airvuz-dronetv-1-eu.zeasn.wurl.tv/playlist.m3u8
+
 AYM Sports, https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 TCS+, https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
