@@ -1165,3 +1165,21 @@ http://clubtv.link/my0505/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
 http://clubtv.link/my0505/phpcode/lista0.php?c=92&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1, Tigo Sport
 http://clubtv.link/my0505/phpcode/lista0.php?c=62&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1, TUDN
+http://clubtv.link/my0505/phpcode/lista1.php?c=a08j&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1,Cinco
+http://clubtv.link/my0505/phpcode/lista1.php?c=a038&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1,Canal 5
+http://clubtv.link/my0505/phpcode/lista3.php?c=a038&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1, TUDN 
+http://clubtv.link/my0505/phpcode/android0.php?c=698&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1, TUDN (Pocos Datos)
+http://clubtv.link/my0505/phpcode/android0.php?c=822&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1, TUDN ᵸᴰ
+http://clubtv.link/my0505/phpcode/android0.php?c=801&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1, TUDN Op. 2
+http://clubtv.link/my0505/phpcode/android0.php?c=997&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1, TUDN USA ᵸᴰ
+http://clubtv.link/my0505/phpcode/android0.php?c=86&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
