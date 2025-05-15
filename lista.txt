@@ -23,3 +23,11 @@ Love Nature, https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254
 
 Az Guatemala, https://ch1-tva.duin.dev/hls/stream.m3u8
 Az Honduras, https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+E Sports, https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+C4 En Alerta, https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+Encantador de Perros, https://jmp2.uk/sam-ESBA3300033PL.m3u8
+Ideas en 5 Minutos, https://jmp2.uk/sam-ESBC3500002PW.m3u8
+Pitufo TV, https://jmp2.uk/sam-ESBD130000205.m3u8
+Rabbids : La invasion, https://jmp2.uk/sam-ESBD2300003S5.m3u8
+DE PELICULA, http://clubtv.link/1005my/phpcode/lista0.php?c=48&token=Tecnoplus11&f=.m3u8
