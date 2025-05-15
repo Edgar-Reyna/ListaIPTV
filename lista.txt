@@ -18,7 +18,7 @@ TUBI FX SPORTS,https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40e
 Cantina TV,https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 
 Toon Goggles, https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-Rabbids : La invasion, https://jmp2.uk/sam-ESBD2300003S5.m3u8
+Rabbids, https://jmp2.uk/sam-ESBD2300003S5.m3u8
 Pitufo TV, https://jmp2.uk/sam-ESBD130000205.m3u8
 
 Xtrema Animal, https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
@@ -28,4 +28,4 @@ Az Guatemala, https://ch1-tva.duin.dev/hls/stream.m3u8
 Az Honduras, https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 Ideas en 5 Minutos, https://jmp2.uk/sam-ESBC3500002PW.m3u8
 
-PTV CINE ACCION, https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=397886a0-cd21-11eb-bd6e-0242ac110002&sid=397886a0-cd21-11eb-bd6e-0242ac110002&userId=
+AMX Noticias, https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
