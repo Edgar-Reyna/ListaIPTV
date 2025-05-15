@@ -3,22 +3,23 @@ Azteca Uno,https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 Azteca Uno - 1H,https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 Azteca 7,https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 Azteca Internacional,https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-Az Guatemala, https://ch1-tva.duin.dev/hls/stream.m3u8
-Az Honduras, https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 Canal 4 Mva, https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
-Telemundo,https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+RCG 1 Saltillo, https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
 N+ MTY,https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
+Telemundo,https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
 ITV Deportes,https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+AYM Sports, https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+TCS+, https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 TUBI FX SPORTS,https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
+
 Cantina TV,https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 
 Toon Goggles, https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 
-
 Xtrema Animal, https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 Love Nature, https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 
-
-AYM Sports, https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-TCS+, https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+Az Guatemala, https://ch1-tva.duin.dev/hls/stream.m3u8
+Az Honduras, https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
