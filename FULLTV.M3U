@@ -1171,3 +1171,13 @@ http://clubtv.link/my2505/phpcode/lista0.php?c=62&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="Premium",Nickelodeon
 http://clubtv.link/my2505/phpcode/lista3.php?c=a038&token=Tecnoplus11&f=.m3u8
 
+#EXTINF:-1 group-title="zNonGroup",BeIN SPORTS XTRA En Espanol
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+#EXTINF:-1 group-title="zNonGroup",Fox Sports en Espanol (720p)
+https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
+#EXTINF:-1 group-title="zNonGroup",MovieSphere (720p)
+https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
+#EXTINF:-1 group-title="NonGroup",MovieSphere Canada (1080p)
+https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2.m3u8
+#EXTINF:-1 group-title="zNonGroup",Canal 33 Tijuana (720p)
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
