@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="DeCajon",Canal 4 Monclova
-https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
+#https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",Canal 15 Sabinas
 https://cdn.fastocloud.com/leonel.m3u8
 #EXTINF:-1 group-title="NonGroup",ESTRELLA TV
@@ -37,9 +37,9 @@ http://200.59.188.3:8000/play/a045
 http://177.93.46.163:8000/play/a00k
 #EXTINF:-1 group-title="NonGroup",NICK JR
 http://200.59.188.3:8000/play/a044
-#EXTINF:-1 group-title="Movies",HBO2
+#EXTINF:-1 group-title="AMovies",HBO2
 http://190.60.37.154:45000/play/a052/index.m3u8
-#EXTINF:-1 group-title="Movies",WARNER HD OP2
+#EXTINF:-1 group-title="AMovies",WARNER HD OP2
 http://200.59.188.3:8000/play/a00h
 #EXTINF:-1 group-title="NonGroup",TCM
 http://200.59.188.3:8000/play/a05g
@@ -342,7 +342,7 @@ https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",Canal Sur 2
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",Cantina TV
-https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",Caritas TV
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",Casa Sobre La Roca TV
@@ -446,7 +446,7 @@ https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",LLBN TV Latino
 https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 #EXTINF:-1 group-title="DeCajon",Love Nature
-https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+#https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",Majestad TV
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 group-title="NonGroup",Master Video
@@ -613,7 +613,7 @@ https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",MX EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Movies",US CANAL 57
+#EXTINF:-1 group-title="AMovies",US CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="NonGroup",US AL JAZEERA EN
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
