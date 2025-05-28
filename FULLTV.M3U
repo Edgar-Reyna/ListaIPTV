@@ -37,9 +37,9 @@ http://200.59.188.3:8000/play/a045
 http://177.93.46.163:8000/play/a00k
 #EXTINF:-1 group-title="NonGroup",NICK JR
 http://200.59.188.3:8000/play/a044
-#EXTINF:-1 group-title="AMovies",HBO2
+#EXTINF:-1 group-title="zMovies",HBO2
 http://190.60.37.154:45000/play/a052/index.m3u8
-#EXTINF:-1 group-title="AMovies",WARNER HD OP2
+#EXTINF:-1 group-title="zMovies",WARNER HD OP2
 http://200.59.188.3:8000/play/a00h
 #EXTINF:-1 group-title="NonGroup",TCM
 http://200.59.188.3:8000/play/a05g
@@ -163,7 +163,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="NonGroup", MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Minuto Para Ganar
+#EXTINF:-1 group-title="DeCajon", Minuto Para Ganar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="NonGroup", Los archivos del FBI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -207,7 +207,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="NonGroup", Las Pistas de Blue
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Lucha Libre AAA
+#EXTINF:-1 group-title="zDeportes", Lucha Libre AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="NonGroup", MTV PTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -215,7 +215,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="NonGroup", Yu-Gi-Oh
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV E-Sports
+#EXTINF:-1 group-title="zDeportes", PTV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="NonGroup", One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -277,11 +277,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e914
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 group-title="NonGroup",ESPN 4
+#EXTINF:-1 group-title="zDeportes",ESPN 4
 http://177.93.46.163:8000/play/a01j
-#EXTINF:-1 group-title="NonGroup",FOX SPORT 2
+#EXTINF:-1 group-title="zDeportes",FOX SPORT 2
 http://177.93.46.163:8000/play/a01a
-#EXTINF:-1 group-title="NonGroup",FUTBOL NETWORK
+#EXTINF:-1 group-title="zDeportes",FUTBOL NETWORK
 https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",BOB SPONGE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
@@ -555,7 +555,7 @@ https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playl
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NonGroup", Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", ADN 40 | MX
+#EXTINF:-1 group-title="DeCajon", ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NonGroup", Canal 10 Cancun | MX
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?PlaylistM3UCL
@@ -571,7 +571,7 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NonGroup", Multimedios Monterrey | MX
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", RCG 1 Saltillo | MX
+#EXTINF:-1 group-title="DeCajon", RCG 1 Saltillo | MX
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NonGroup", RTQ Queretaro | MX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
@@ -613,7 +613,7 @@ https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",MX EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="AMovies",US CANAL 57
+#EXTINF:-1 group-title="zMovies",US CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="NonGroup",US AL JAZEERA EN
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
@@ -635,7 +635,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",CDMX CANAL 14
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
-#EXTINF:-1 group-title="NonGroup",CANAL 44 Chihuahua
+#EXTINF:-1 group-title="DeCajon",CANAL 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",CHIAP CANAL 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
@@ -653,9 +653,9 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",VER RTV  VERACRUZ
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="DeCajon",MX TUBI FOX SPORTS
+#EXTINF:-1 group-title="zDeportes",MX TUBI FOX SPORTS
 https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
-#EXTINF:-1 group-title="NonGroup",MX CANELA DEPORTES
+#EXTINF:-1 group-title="zDeportes",MX CANELA DEPORTES
 https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",MX INTERNETV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
@@ -715,9 +715,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b3af1c3a4ad200081c7
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
 #EXTINF:-1 group-title="DeCajon",History
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup",E Sports
+#EXTINF:-1 group-title="zDeportes",E Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 group-title="NonGroup",Bein SportXtra
+#EXTINF:-1 group-title="zDeportes",Bein SportXtra
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NonGroup",La liga Inside
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
@@ -741,9 +741,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8
 
 
-#EXTINF:-1 group-title="NonGroup", ITV DEPORTES
+#EXTINF:-1 group-title="zDeportes", ITV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-#EXTINF:-1 group-title="NonGroup", AYM Sports
+#EXTINF:-1 group-title="zDeportes", AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 group-title="NonGroup", Toon Goggles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
@@ -836,13 +836,13 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w1674309445.m3u8
 
 #EXTINF:-1 group-title="NonGroup",Juvenal English
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",ESPN 2 HD
+#EXTINF:-1 group-title="zDeportes",ESPN 2 HD
 http://181.78.82.6:46090/play/a00i/index.m3u8
-#EXTINF:-1 group-title="NonGroup",ESPN 3 HD
+#EXTINF:-1 group-title="zDeportes",ESPN 3 HD
 http://181.78.82.6:46090/play/a00v/index.m3u8
-#EXTINF:-1 group-title="NonGroup",ESPN 6 HD
+#EXTINF:-1 group-title="zDeportes",ESPN 6 HD
 http://181.78.82.6:46090/play/a00w/index.m3u8
-#EXTINF:-1 group-title="NonGroup",ESPN ARG HD
+#EXTINF:-1 group-title="zDeportes",ESPN ARG HD
 http://181.78.82.6:46090/play/a00q/index.m3u8
 
 
@@ -906,11 +906,11 @@ https://jmp2.uk/sam-ES2600001MC.m3u8
 https://jmp2.uk/sam-ESBD3700001S0.m3u8
 #EXTINF:-1 group-title="NonGroup", Crimen - Rakuten TV
 https://jmp2.uk/sam-ES2600005G9.m3u8
-#EXTINF:-1 group-title="NonGroup", La Liga Inside
+#EXTINF:-1 group-title="zDeportes", La Liga Inside
 https://jmp2.uk/sam-ESBD3600001Q1.m3u8
 #EXTINF:-1 group-title="NonGroup", DFB Play TV
 https://jmp2.uk/sam-ES3200003OC.m3u8
-#EXTINF:-1 group-title="NonGroup", FIFA+
+#EXTINF:-1 group-title="zDeportes", FIFA+
 https://jmp2.uk/sam-ESBC2700009B4.m3u8
 #EXTINF:-1 group-title="NonGroup", Motorvision
 https://jmp2.uk/sam-ESBD3200001EG.m3u8
@@ -924,7 +924,7 @@ https://jmp2.uk/sam-ES5000001CS.m3u8
 https://jmp2.uk/sam-ESBD130000205.m3u8
 #EXTINF:-1 group-title="NonGroup", Caillou
 https://jmp2.uk/sam-ES4800002OZ.m3u8
-#EXTINF:-1 group-title="NonGroup", duckTV
+#EXTINF:-1 group-title="NonGroup", DuckTV
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
 #EXTINF:-1 group-title="NonGroup", SuperToons TV
 https://jmp2.uk/sam-ESBD5100001G0.m3u8
@@ -1132,27 +1132,27 @@ http://clubtv.link/my2505/phpcode/lista0.php?c=51&token=Tecnoplus11&f=.m3u8
 http://clubtv.link/my2505/phpcode/lista0.php?c=13&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="Premium", DISNEY JR
 http://clubtv.link/my2505/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", DE PELICULA
+#EXTINF:-1 group-title="zMovies", DE PELICULA
 http://clubtv.link/my2505/phpcode/lista0.php?c=48&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", ESPN 1 MX
+#EXTINF:-1 group-title="zDeportes", ESPN 1 MX
 http://clubtv.link/my2505/phpcode/lista0.php?c=41&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", ESPN 2 MX
+#EXTINF:-1 group-title="zDeportes", ESPN 2 MX
 http://clubtv.link/my2505/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", ESPN 3 MX
+#EXTINF:-1 group-title="zDeportes", ESPN 3 MX
 http://clubtv.link/my2505/phpcode/lista0.php?c=39&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", FOX SPORTS 3 MX
+#EXTINF:-1 group-title="zDeportes", FOX SPORTS 3 MX
 http://clubtv.link/my2505/phpcode/lista0.php?c=28&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", WWE NETWORK
+#EXTINF:-1 group-title="zDeportes", WWE NETWORK
 http://clubtv.link/my2505/phpcode/lista0.php?c=65&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", WIN SPORTS
+#EXTINF:-1 group-title="zDeportes", WIN SPORTS
 http://clubtv.link/my2505/phpcode/lista0.php?c=67&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", ESPN SUR
+#EXTINF:-1 group-title="zDeportes", ESPN SUR
 http://clubtv.link/my2505/phpcode/lista0.php?c=77&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", ESPN 2 SUR
+#EXTINF:-1 group-title="zDeportes", ESPN 2 SUR
 http://clubtv.link/my2505/phpcode/lista0.php?c=79&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", ESPN 3 SUR
+#EXTINF:-1 group-title="zDeportes", ESPN 3 SUR
 http://clubtv.link/my2505/phpcode/lista0.php?c=78&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", CLARO SPORTS
+#EXTINF:-1 group-title="zDeportes", CLARO SPORTS
 http://clubtv.link/my2505/phpcode/lista0.php?c=82&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="Premium", Az Cinema
 http://clubtv.link/my2505/phpcode/lista0.php?c=89&token=Tecnoplus11&f=.m3u8
@@ -1160,24 +1160,24 @@ http://clubtv.link/my2505/phpcode/lista0.php?c=89&token=Tecnoplus11&f=.m3u8
 http://clubtv.link/my2505/phpcode/lista0.php?c=88&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="Premium", Boomerang
 http://clubtv.link/my2505/phpcode/lista0.php?c=53&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", fox sports 2 mx
+#EXTINF:-1 group-title="zDeportes", fox sports 2 mx
 http://clubtv.link/my2505/phpcode/lista0.php?c=29&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", Hbo 2
+#EXTINF:-1 group-title="zMovies", Hbo 2
 http://clubtv.link/my2505/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="Premium", Nick
 http://clubtv.link/my2505/phpcode/lista0.php?c=92&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 group-title="Premium", Tigo Sport
+#EXTINF:-1 group-title="zDeportes", Tigo Sport
 http://clubtv.link/my2505/phpcode/lista0.php?c=62&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="Premium",Nickelodeon
 http://clubtv.link/my2505/phpcode/lista3.php?c=a038&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 group-title="zNonGroup",BeIN SPORTS XTRA En Espanol
+#EXTINF:-1 group-title="zDeportes",BeIN SPORTS XTRA En Espanol
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
-#EXTINF:-1 group-title="zNonGroup",Fox Sports en Espanol (720p)
+#EXTINF:-1 group-title="zDeportes",Fox Sports en Espanol (720p)
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
-#EXTINF:-1 group-title="zNonGroup",MovieSphere (720p)
+#EXTINF:-1 group-title="NonGroup",MovieSphere (720p)
 https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
-#EXTINF:-1 group-title="zNonGroup",MovieSphere Canada (1080p)
+#EXTINF:-1 group-title="NonGroup",MovieSphere Canada (1080p)
 https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2.m3u8
-#EXTINF:-1 group-title="zNonGroup",Canal 33 Tijuana (720p)
+#EXTINF:-1 group-title="NonGroup",Canal 33 Tijuana (720p)
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
