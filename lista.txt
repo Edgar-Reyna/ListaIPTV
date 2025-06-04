@@ -1,6 +1,8 @@
 Ideas en 5 Minutos, https://jmp2.uk/sam-ESBC3500002PW.m3u8
 
+Canal 4 Monclova, https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4mva/chunklist_w2102539404.m3u8
 Las Estrellas,https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+CANAL 5, http://clubtv.link/jun01/phpcode/lista0.php?c=52&token=TecnoplusJunio03&f=.m3u8
 Azteca Uno,https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 Azteca Uno - 1H,https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 Azteca 7,https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
@@ -17,6 +19,7 @@ Telemundo,https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream
 ITV Deportes,https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 AYM Sports, https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 TCS+, https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+Fox Sports, https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 
 Toon Goggles, https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 Rabbids, https://jmp2.uk/sam-ESBD2300003S5.m3u8
