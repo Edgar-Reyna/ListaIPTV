@@ -1,1187 +1,1197 @@
 #EXTM3U
-#EXTINF:-1 group-title="DeCajon",Canal 4 Monclova
+#EXTINF:-1 group-title="Grupo 1",Canal 4 Monclova
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4mva/chunklist_w2102539404.m3u8
 #https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal4/playlist.m3u8
-#EXTINF:-1 group-title="DeCajon", CANAL 5
+#EXTINF:-1 group-title="Grupo 1", CANAL 5
 http://clubtv.link/jun01/phpcode/lista0.php?c=52&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 15 Sabinas
+#EXTINF:-1 group-title="Grupo 9",Canal 15 Sabinas
 https://cdn.fastocloud.com/leonel.m3u8
-#EXTINF:-1 group-title="NonGroup",ESTRELLA TV
+#EXTINF:-1 group-title="Grupo 9",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="DeCajon",LAS ESTRELLAS HD OP3
+#EXTINF:-1 group-title="Grupo 1",LAS ESTRELLAS HD OP3
 http://177.93.46.163:8000/play/a019
-#EXTINF:-1 group-title="NonGroup",ESTRELLA TV OP2
+#EXTINF:-1 group-title="Grupo 9",ESTRELLA TV OP2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=true&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=42.0048&deviceLon=-87.9954&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=US&serverSideAds=true&sessionID=b8df70d0-afa5-11eb-b521-0242ac110002&sid=b8df70d0-afa5-11eb-b521-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",ESTRELLA TV NOTICIAS
+#EXTINF:-1 group-title="Grupo 9",ESTRELLA TV NOTICIAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=true&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=42.0048&deviceLon=-87.9954&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=US&serverSideAds=true&sessionID=b8df70d0-afa5-11eb-b521-0242ac110002&sid=b8df70d0-afa5-11eb-b521-0242ac110002&userId=
-#EXTINF:-1 group-title="DeCajon",AZTECA UNO
+#EXTINF:-1 group-title="Grupo 1",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="DeCajon",AZTECA UNO OP2
+#EXTINF:-1 group-title="Grupo 1",AZTECA UNO OP2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
-#EXTINF:-1 group-title="DeCajon",AZTECA 7  OP2
+#EXTINF:-1 group-title="Grupo 1",AZTECA 7  OP2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="DeCajon",MULTIMEDIOS MONTERREY
+#EXTINF:-1 group-title="Grupo 1",MULTIMEDIOS MONTERREY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 group-title="NonGroup",MULTIMEDIOS CDMX
+#EXTINF:-1 group-title="Grupo 9",MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 group-title="NonGroup",TELEMUNDO PUERTO RICO
+#EXTINF:-1 group-title="Grupo 9",TELEMUNDO PUERTO RICO
 http://200.59.188.3:8000/play/a07p
-#EXTINF:-1 group-title="NonGroup",RCN
+#EXTINF:-1 group-title="Grupo 9",RCN
 http://177.93.46.163:8000/play/a01o
-#EXTINF:-1 group-title="NonGroup",RCN OP2
+#EXTINF:-1 group-title="Grupo 9",RCN OP2
 http://200.59.188.3:8000/play/a03a
-#EXTINF:-1 group-title="NonGroup",CARACOL OP2
+#EXTINF:-1 group-title="Grupo 9",CARACOL OP2
 http://177.93.46.163:8000/play/a01n
-#EXTINF:-1 group-title="NonGroup",TELEFE OP2
+#EXTINF:-1 group-title="Grupo 9",TELEFE OP2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
-#EXTINF:-1 group-title="NonGroup",DISCOVERY TURBO
+#EXTINF:-1 group-title="Grupo 9",DISCOVERY TURBO
 http://200.59.188.3:8000/play/a045
-#EXTINF:-1 group-title="NonGroup",DISCOVERY KIDS zPremium
+#EXTINF:-1 group-title="Grupo 9",DISCOVERY KIDS Grupo 4
 http://177.93.46.163:8000/play/a00k
-#EXTINF:-1 group-title="NonGroup",NICK JR
+#EXTINF:-1 group-title="Grupo 9",NICK JR
 http://200.59.188.3:8000/play/a044
-#EXTINF:-1 group-title="zMovies",HBO2
+#EXTINF:-1 group-title="Grupo 2",HBO2
 http://190.60.37.154:45000/play/a052/index.m3u8
-#EXTINF:-1 group-title="zMovies",WARNER HD OP2
+#EXTINF:-1 group-title="Grupo 2",WARNER HD OP2
 http://200.59.188.3:8000/play/a00h
-#EXTINF:-1 group-title="NonGroup",TCM
+#EXTINF:-1 group-title="Grupo 9",TCM
 http://200.59.188.3:8000/play/a05g
-#EXTINF:-1 group-title="NonGroup",MTV
+#EXTINF:-1 group-title="Grupo 9",MTV
 http://177.93.46.163:8000/play/a00a
-#EXTINF:-1 group-title="NonGroup",TELERITMO
+#EXTINF:-1 group-title="Grupo 9",TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 group-title="NonGroup",Retro Music Television
+#EXTINF:-1 group-title="Grupo 9",Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup",RadioTV.pro
+#EXTINF:-1 group-title="Grupo 9",RadioTV.pro
 https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 group-title="NonGroup",PTV CINE ACCION
+#EXTINF:-1 group-title="Grupo 9",PTV CINE ACCION
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=397886a0-cd21-11eb-bd6e-0242ac110002&sid=397886a0-cd21-11eb-bd6e-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup", PTV Cine Comedia
+#EXTINF:-1 group-title="Grupo 9", PTV Cine Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup",PTV CINE SUSPENSO
+#EXTINF:-1 group-title="Grupo 9",PTV CINE SUSPENSO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f5b68be6-cd20-11eb-a259-0242ac110002&sid=f5b68be6-cd20-11eb-a259-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV CINE TERROR
+#EXTINF:-1 group-title="Grupo 9",PTV CINE TERROR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7ad41cf4-cd21-11eb-85d6-0242ac110002&sid=7ad41cf4-cd21-11eb-85d6-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup", PTV Viajes
+#EXTINF:-1 group-title="Grupo 9", PTV Viajes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup",PTV CINE ESTELAR
+#EXTINF:-1 group-title="Grupo 9",PTV CINE ESTELAR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=ee36ed29-cd21-11eb-8734-0242ac110002&sid=ee36ed29-cd21-11eb-8734-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV CINE
+#EXTINF:-1 group-title="Grupo 9",PTV CINE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=342c0a11-cd22-11eb-b2c8-0242ac110002&sid=342c0a11-cd22-11eb-b2c8-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV CINE CLASICO
+#EXTINF:-1 group-title="Grupo 9",PTV CINE CLASICO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&country=MX&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=abf84c6a-d2f6-11eb-96d3-0242ac110002&sid=abf84c6a-d2f6-11eb-96d3-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV SERIES RETRO
+#EXTINF:-1 group-title="Grupo 9",PTV SERIES RETRO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5069cb34-cd22-11eb-888c-0242ac110002&sid=5069cb34-cd22-11eb-888c-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV MISTERIOS
+#EXTINF:-1 group-title="Grupo 9",PTV MISTERIOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9e4540bb-cd22-11eb-8afd-0242ac110002&sid=9e4540bb-cd22-11eb-8afd-0242ac110002&userId=
-#EXTINF:-1 group-title="DeCajon",PTV HISTORIA
+#EXTINF:-1 group-title="Grupo 1",PTV HISTORIA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b81abf51-cd22-11eb-859f-0242ac110002&sid=b81abf51-cd22-11eb-859f-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV NOVELAS
+#EXTINF:-1 group-title="Grupo 9",PTV NOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=e505616f-cd22-11eb-a8b9-0242ac110002&sid=e505616f-cd22-11eb-a8b9-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV COMPETENCIAS
+#EXTINF:-1 group-title="Grupo 9",PTV COMPETENCIAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=4130ed0c-cd23-11eb-8382-0242ac110002&sid=4130ed0c-cd23-11eb-8382-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV WIPEOUT
+#EXTINF:-1 group-title="Grupo 9",PTV WIPEOUT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=68155ab1-cd23-11eb-af82-0242ac110002&sid=68155ab1-cd23-11eb-af82-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV HUMOR
+#EXTINF:-1 group-title="Grupo 9",PTV HUMOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=bf28769c-cd23-11eb-8497-0242ac110002&sid=bf28769c-cd23-11eb-8497-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV COMEDY CENTRAL
+#EXTINF:-1 group-title="Grupo 9",PTV COMEDY CENTRAL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d33f16fe-cd23-11eb-8382-0242ac110002&sid=d33f16fe-cd23-11eb-8382-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV NICK CLASSIC
+#EXTINF:-1 group-title="Grupo 9",PTV NICK CLASSIC
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=51de56d7-cd24-11eb-9091-0242ac110002&sid=51de56d7-cd24-11eb-9091-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV NICK TEENNICK
+#EXTINF:-1 group-title="Grupo 9",PTV NICK TEENNICK
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=8b711b0f-cd24-11eb-bb4c-0242ac110002&sid=8b711b0f-cd24-11eb-bb4c-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV NICK PAISAJES
+#EXTINF:-1 group-title="Grupo 9",PTV NICK PAISAJES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b402df8c-cd24-11eb-993e-0242ac110002&sid=b402df8c-cd24-11eb-993e-0242ac110002&userId=
-#EXTINF:-1 group-title="DeCajon",PTV NICK ANIMALES
+#EXTINF:-1 group-title="Grupo 1",PTV NICK ANIMALES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=68ca370d-cd25-11eb-8a72-0242ac110002&sid=68ca370d-cd25-11eb-8a72-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup",PTV NICK CONCIERTOS
+#EXTINF:-1 group-title="Grupo 9",PTV NICK CONCIERTOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0098c5c8-cd24-11eb-98a9-0242ac110002&sid=0098c5c8-cd24-11eb-98a9-0242ac110002&userId=
 
 
-#EXTINF:-1 group-title="NonGroup", Run Time Latino
+#EXTINF:-1 group-title="Grupo 9", Run Time Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
-#EXTINF:-1 group-title="NonGroup", Run Time Films
+#EXTINF:-1 group-title="Grupo 9", Run Time Films
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 group-title="NonGroup", Run Time Espanol
+#EXTINF:-1 group-title="Grupo 9", Run Time Espanol
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
-#EXTINF:-1 group-title="NonGroup", Run Time Cine y Series
+#EXTINF:-1 group-title="Grupo 9", Run Time Cine y Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:-1 group-title="NonGroup", Run Time Familia
+#EXTINF:-1 group-title="Grupo 9", Run Time Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
-#EXTINF:-1 group-title="NonGroup", Run Time Terror
+#EXTINF:-1 group-title="Grupo 9", Run Time Terror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:-1 group-title="NonGroup", Run Time Crimen
+#EXTINF:-1 group-title="Grupo 9", Run Time Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
-#EXTINF:-1 group-title="NonGroup", Run Time Comedia
+#EXTINF:-1 group-title="Grupo 9", Run Time Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-#EXTINF:-1 group-title="NonGroup", Run Time Acción
+#EXTINF:-1 group-title="Grupo 9", Run Time Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 
-#EXTINF:-1 group-title="NonGroup", PTV Cocina
+#EXTINF:-1 group-title="Grupo 9", PTV Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Deportes
+#EXTINF:-1 group-title="Grupo 9", PTV Deportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Series
+#EXTINF:-1 group-title="Grupo 9", PTV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Anime
+#EXTINF:-1 group-title="Grupo 9", PTV Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Reality
+#EXTINF:-1 group-title="Grupo 9", PTV Reality
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Investiga
+#EXTINF:-1 group-title="Grupo 9", PTV Investiga
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Junior
+#EXTINF:-1 group-title="Grupo 9", PTV Junior
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Hogar
+#EXTINF:-1 group-title="Grupo 9", PTV Hogar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Kids
+#EXTINF:-1 group-title="Grupo 9", PTV Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Velocidad
+#EXTINF:-1 group-title="Grupo 9", PTV Velocidad
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Cine Familia
+#EXTINF:-1 group-title="Grupo 9", PTV Cine Familia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Teen
+#EXTINF:-1 group-title="Grupo 9", PTV Teen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Cine Romance
+#EXTINF:-1 group-title="Grupo 9", PTV Cine Romance
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Ciencia
+#EXTINF:-1 group-title="Grupo 9", PTV Ciencia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Series Latinas
+#EXTINF:-1 group-title="Grupo 9", PTV Series Latinas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="DeCajon", PTV Naturaleza
+#EXTINF:-1 group-title="Grupo 1", PTV Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Aventura
+#EXTINF:-1 group-title="Grupo 9", PTV Aventura
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Series Retro
+#EXTINF:-1 group-title="Grupo 9", PTV Series Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", MTV Classic
+#EXTINF:-1 group-title="Grupo 9", MTV Classic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Telefe Hits
+#EXTINF:-1 group-title="Grupo 9", Telefe Hits
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV  Nuestro Cine
+#EXTINF:-1 group-title="Grupo 9", PTV  Nuestro Cine
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Vida Real
+#EXTINF:-1 group-title="Grupo 9", PTV Vida Real
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", MasterChef
+#EXTINF:-1 group-title="Grupo 9", MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="DeCajon", Minuto Para Ganar
+#EXTINF:-1 group-title="Grupo 1", Minuto Para Ganar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Los archivos del FBI
+#EXTINF:-1 group-title="Grupo 9", Los archivos del FBI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Anime Accion
+#EXTINF:-1 group-title="Grupo 9", PTV Anime Accion
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Estrellas de Accion
+#EXTINF:-1 group-title="Grupo 9", Estrellas de Accion
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", MTV Ridiculousness
+#EXTINF:-1 group-title="Grupo 9", MTV Ridiculousness
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Peleas
+#EXTINF:-1 group-title="Grupo 9", PTV Peleas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", The New Detectives
+#EXTINF:-1 group-title="Grupo 9", The New Detectives
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Rugrats
+#EXTINF:-1 group-title="Grupo 9", Rugrats
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Babyfirst
+#EXTINF:-1 group-title="Grupo 9", Babyfirst
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", The Pet Collective
+#EXTINF:-1 group-title="Grupo 9", The Pet Collective
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Archivos Forenses
+#EXTINF:-1 group-title="Grupo 9", Archivos Forenses
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Misterios Medicos
+#EXTINF:-1 group-title="Grupo 9", Misterios Medicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Empenos a lo bestia
+#EXTINF:-1 group-title="Grupo 9", Empenos a lo bestia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Sci-Fi
+#EXTINF:-1 group-title="Grupo 9", PTV Sci-Fi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Barney
+#EXTINF:-1 group-title="Grupo 9", Barney
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Historias de Ultratumba
+#EXTINF:-1 group-title="Grupo 9", Historias de Ultratumba
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", El Reino Infantil
+#EXTINF:-1 group-title="Grupo 9", El Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Conciertos por Stingray
+#EXTINF:-1 group-title="Grupo 9", Conciertos por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Karaoke por Stingray
+#EXTINF:-1 group-title="Grupo 9", Karaoke por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Los Tres Chiflados
+#EXTINF:-1 group-title="Grupo 9", Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Tastemade
+#EXTINF:-1 group-title="Grupo 9", Tastemade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Las Pistas de Blue
+#EXTINF:-1 group-title="Grupo 9", Las Pistas de Blue
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="zDeportes", Lucha Libre AAA
+#EXTINF:-1 group-title="Grupo 3", Lucha Libre AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", MTV PTV
+#EXTINF:-1 group-title="Grupo 9", MTV PTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Nick Teen
+#EXTINF:-1 group-title="Grupo 9", Nick Teen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Yu-Gi-Oh
+#EXTINF:-1 group-title="Grupo 9", Yu-Gi-Oh
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="zDeportes", PTV E-Sports
+#EXTINF:-1 group-title="Grupo 3", PTV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", One Piece
+#EXTINF:-1 group-title="Grupo 9", One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Tokusato
+#EXTINF:-1 group-title="Grupo 9", Tokusato
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Comedy Central PTV
+#EXTINF:-1 group-title="Grupo 9", Comedy Central PTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Espana
+#EXTINF:-1 group-title="Grupo 9", PTV Espana
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Retro Cartoons
+#EXTINF:-1 group-title="Grupo 9", PTV Retro Cartoons
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", MTV Biggest Pop
+#EXTINF:-1 group-title="Grupo 9", MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", MTV Spankin' New
+#EXTINF:-1 group-title="Grupo 9", MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Sin Tetas No Hay Parai­so
+#EXTINF:-1 group-title="Grupo 9", Sin Tetas No Hay Parai­so
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Cine Clasico
+#EXTINF:-1 group-title="Grupo 9", PTV Cine Clasico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Recetas
+#EXTINF:-1 group-title="Grupo 9", PTV Recetas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Hells Kitchen
+#EXTINF:-1 group-title="Grupo 9", Hells Kitchen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Boom
+#EXTINF:-1 group-title="Grupo 9", Boom
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Comedy Central South Park
+#EXTINF:-1 group-title="Grupo 9", Comedy Central South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Motorvision TV
+#EXTINF:-1 group-title="Grupo 9", Motorvision TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Cazador de Homicidas
+#EXTINF:-1 group-title="Grupo 9", Cazador de Homicidas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Mi Obsesion Favorita
+#EXTINF:-1 group-title="Grupo 9", PTV Mi Obsesion Favorita
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Iron Chef
+#EXTINF:-1 group-title="Grupo 9", Iron Chef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Younger
+#EXTINF:-1 group-title="Grupo 9", Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Euronews Espanol
+#EXTINF:-1 group-title="Grupo 9", Euronews Espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Baby Shark TV
+#EXTINF:-1 group-title="Grupo 9", Baby Shark TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", MTV Shore
+#EXTINF:-1 group-title="Grupo 9", MTV Shore
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", PTV Adrenalina Freezone
+#EXTINF:-1 group-title="Grupo 9", PTV Adrenalina Freezone
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", MTV Teen Mom
+#EXTINF:-1 group-title="Grupo 9", MTV Teen Mom
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620fd9f4afb9a80007a9c6d5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Nickelodeon iCarly
+#EXTINF:-1 group-title="Grupo 9", Nickelodeon iCarly
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", CBS News
+#EXTINF:-1 group-title="Grupo 9", CBS News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Bob Esponja Pantalones Cuadrados
+#EXTINF:-1 group-title="Grupo 9", Bob Esponja Pantalones Cuadrados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", MTV Catfish
+#EXTINF:-1 group-title="Grupo 9", MTV Catfish
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", Death Note
+#EXTINF:-1 group-title="Grupo 9", Death Note
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="NonGroup", La Familia del Barrio
+#EXTINF:-1 group-title="Grupo 9", La Familia del Barrio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 group-title="zDeportes",ESPN 4
+#EXTINF:-1 group-title="Grupo 3",ESPN 4
 http://177.93.46.163:8000/play/a01j
-#EXTINF:-1 group-title="zDeportes",FOX SPORT 2
+#EXTINF:-1 group-title="Grupo 3",FOX SPORT 2
 http://177.93.46.163:8000/play/a01a
-#EXTINF:-1 group-title="zDeportes",FUTBOL NETWORK
+#EXTINF:-1 group-title="Grupo 3",FUTBOL NETWORK
 https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",BOB SPONGE
+#EXTINF:-1 group-title="Grupo 9",BOB SPONGE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
-#EXTINF:-1 group-title="NonGroup",NARUTO
+#EXTINF:-1 group-title="Grupo 9",NARUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=
-#EXTINF:-1 group-title="NonGroup", CANAL 26 AGUASCALIENTES
+#EXTINF:-1 group-title="Grupo 9", CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="NonGroup", RCN
+#EXTINF:-1 group-title="Grupo 9", RCN
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup", Telemundo
+#EXTINF:-1 group-title="Grupo 9", Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="NonGroup",3ABN Latino
+#EXTINF:-1 group-title="Grupo 9",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",4Dmas Noticias TV
+#EXTINF:-1 group-title="Grupo 9",4Dmas Noticias TV
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",ADN 40
+#EXTINF:-1 group-title="Grupo 9",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="NonGroup",Agro TV
+#EXTINF:-1 group-title="Grupo 9",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Aguacate TV
+#EXTINF:-1 group-title="Grupo 9",Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
-#EXTINF:-1 group-title="NonGroup",Ahora TV
+#EXTINF:-1 group-title="Grupo 9",Ahora TV
 https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
-#EXTINF:-1 group-title="DeCajon",AMX Noticias
+#EXTINF:-1 group-title="Grupo 1",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Antena 21
+#EXTINF:-1 group-title="Grupo 9",Antena 21
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Azteca 7
+#EXTINF:-1 group-title="Grupo 9",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="DeCajon",Azteca Guatemala
+#EXTINF:-1 group-title="Grupo 1",Azteca Guatemala
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 group-title="DeCajon",Azteca Honduras
+#EXTINF:-1 group-title="Grupo 1",Azteca Honduras
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="DeCajon",Azteca Internacional
+#EXTINF:-1 group-title="Grupo 1",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 group-title="NonGroup",Azteca Uno
+#EXTINF:-1 group-title="Grupo 9",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="NonGroup",Buena TV
+#EXTINF:-1 group-title="Grupo 9",Buena TV
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Campus TV
+#EXTINF:-1 group-title="Grupo 9",Campus TV
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 2
+#EXTINF:-1 group-title="Grupo 9",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 30 TV Bethel
+#EXTINF:-1 group-title="Grupo 9",Canal 30 TV Bethel
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 3 Impresionante
+#EXTINF:-1 group-title="Grupo 9",Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 6
+#EXTINF:-1 group-title="Grupo 9",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 8
+#EXTINF:-1 group-title="Grupo 9",Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 8 Catacaos
+#EXTINF:-1 group-title="Grupo 9",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal IPe
+#EXTINF:-1 group-title="Grupo 9",Canal IPe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal Malaga RTV
+#EXTINF:-1 group-title="Grupo 9",Canal Malaga RTV
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal Sur 2
+#EXTINF:-1 group-title="Grupo 9",Canal Sur 2
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Cantina TV
+#EXTINF:-1 group-title="Grupo 9",Cantina TV
 #https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Caritas TV
+#EXTINF:-1 group-title="Grupo 9",Caritas TV
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Casa Sobre La Roca TV
+#EXTINF:-1 group-title="Grupo 9",Casa Sobre La Roca TV
 https://cp.panelchs.com:1936/8118/8118/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Catatumbo TV
+#EXTINF:-1 group-title="Grupo 9",Catatumbo TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-#EXTINF:-1 group-title="NonGroup",CBN Espanol
+#EXTINF:-1 group-title="Grupo 9",CBN Espanol
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",CBS Sports Network USA
+#EXTINF:-1 group-title="Grupo 9",CBS Sports Network USA
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Cerritos TV3
+#EXTINF:-1 group-title="Grupo 9",Cerritos TV3
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Cine Sony
+#EXTINF:-1 group-title="Grupo 9",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",CNC TV
+#EXTINF:-1 group-title="Grupo 9",CNC TV
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",CreaTV Channel 30
+#EXTINF:-1 group-title="Grupo 9",CreaTV Channel 30
 https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8
-#EXTINF:-1 group-title="NonGroup",Cruz TV
+#EXTINF:-1 group-title="Grupo 9",Cruz TV
 https://reflect-communitytv.cablecast.tv/live-4/live/live.m3u8
-#EXTINF:-1 group-title="NonGroup",Cultura 24
+#EXTINF:-1 group-title="Grupo 9",Cultura 24
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
-#EXTINF:-1 group-title="NonGroup",Cupertino City Channel
+#EXTINF:-1 group-title="Grupo 9",Cupertino City Channel
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Diario Hechicera
+#EXTINF:-1 group-title="Grupo 9",Diario Hechicera
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Dios Te Ve
+#EXTINF:-1 group-title="Grupo 9",Dios Te Ve
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Disney XD East
+#EXTINF:-1 group-title="Grupo 9",Disney XD East
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="NonGroup",DMJ
+#EXTINF:-1 group-title="Grupo 9",DMJ
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",DW Espanol
+#EXTINF:-1 group-title="Grupo 9",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Ecuador TV
+#EXTINF:-1 group-title="Grupo 9",Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Ecuavisa
+#EXTINF:-1 group-title="Grupo 9",Ecuavisa
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Educa TV
+#EXTINF:-1 group-title="Grupo 9",Educa TV
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",El Camino TV
+#EXTINF:-1 group-title="Grupo 9",El Camino TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",EnerGeek
+#EXTINF:-1 group-title="Grupo 9",EnerGeek
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-#EXTINF:-1 group-title="NonGroup",Espiritu Santo Y Fuego TV
+#EXTINF:-1 group-title="Grupo 9",Espiritu Santo Y Fuego TV
 https://inliveserver.com:1936/8392/8392/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",ETB 2
+#EXTINF:-1 group-title="Grupo 9",ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 group-title="NonGroup",EWTN Africa/Asia
+#EXTINF:-1 group-title="Grupo 9",EWTN Africa/Asia
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",EWTN Estados Unidos
+#EXTINF:-1 group-title="Grupo 9",EWTN Estados Unidos
 https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Exitosa TV
+#EXTINF:-1 group-title="Grupo 9",Exitosa TV
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Fanpop TV
+#EXTINF:-1 group-title="Grupo 9",Fanpop TV
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
-#EXTINF:-1 group-title="NonGroup",FMTV
+#EXTINF:-1 group-title="Grupo 9",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 group-title="NonGroup",France 24 Espanol
+#EXTINF:-1 group-title="Grupo 9",France 24 Espanol
 https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Hamaika Telebista
+#EXTINF:-1 group-title="Grupo 9",Hamaika Telebista
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Infinita TV
+#EXTINF:-1 group-title="Grupo 9",Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:-1 group-title="NonGroup",IQ Channel
+#EXTINF:-1 group-title="Grupo 9",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:-1 group-title="DeCajon",ITV Deportes
+#EXTINF:-1 group-title="Grupo 1",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="NonGroup",JBN TV
+#EXTINF:-1 group-title="Grupo 9",JBN TV
 https://mediacp.us:8081/jbntv/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Jehova TV
+#EXTINF:-1 group-title="Grupo 9",Jehova TV
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",JN 19
+#EXTINF:-1 group-title="Grupo 9",JN 19
 https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 group-title="NonGroup",Justicia TV
+#EXTINF:-1 group-title="Grupo 9",Justicia TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Kanal D Drama
+#EXTINF:-1 group-title="Grupo 9",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",KandelaTV
+#EXTINF:-1 group-title="Grupo 9",KandelaTV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-#EXTINF:-1 group-title="NonGroup",KSCE-DT1
+#EXTINF:-1 group-title="Grupo 9",KSCE-DT1
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",KSCE-DT2
+#EXTINF:-1 group-title="Grupo 9",KSCE-DT2
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",KSCE-DT3
+#EXTINF:-1 group-title="Grupo 9",KSCE-DT3
 https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",KTOP
+#EXTINF:-1 group-title="Grupo 9",KTOP
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",LA CityView 35
+#EXTINF:-1 group-title="Grupo 9",LA CityView 35
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 group-title="NonGroup",La Mega Mundial
+#EXTINF:-1 group-title="Grupo 9",La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
-#EXTINF:-1 group-title="NonGroup",La Que Buena Atlanta
+#EXTINF:-1 group-title="Grupo 9",La Que Buena Atlanta
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Las Estrellas
+#EXTINF:-1 group-title="Grupo 9",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Latina TV
+#EXTINF:-1 group-title="Grupo 9",Latina TV
 https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
-#EXTINF:-1 group-title="NonGroup",La-X
+#EXTINF:-1 group-title="Grupo 9",La-X
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",LLBN TV Latino
+#EXTINF:-1 group-title="Grupo 9",LLBN TV Latino
 https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
-#EXTINF:-1 group-title="DeCajon",Love Nature
+#EXTINF:-1 group-title="Grupo 1",Love Nature
 #https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Majestad TV
+#EXTINF:-1 group-title="Grupo 9",Majestad TV
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
-#EXTINF:-1 group-title="NonGroup",Master Video
+#EXTINF:-1 group-title="Grupo 9",Master Video
 https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Mega TV
+#EXTINF:-1 group-title="Grupo 9",Mega TV
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Megavision Canal 19
+#EXTINF:-1 group-title="Grupo 9",Megavision Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1 group-title="NonGroup",MGM+ East
+#EXTINF:-1 group-title="Grupo 9",MGM+ East
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 group-title="NonGroup",MyTime Movie Network
+#EXTINF:-1 group-title="Grupo 9",MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",MyZen TV
+#EXTINF:-1 group-title="Grupo 9",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Nuevo Tiempo
+#EXTINF:-1 group-title="Grupo 9",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Onza TV
+#EXTINF:-1 group-title="Grupo 9",Onza TV
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Opcion TV
+#EXTINF:-1 group-title="Grupo 9",Opcion TV
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Orange TV
+#EXTINF:-1 group-title="Grupo 9",Orange TV
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",PCT Channel 26
+#EXTINF:-1 group-title="Grupo 9",PCT Channel 26
 https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Planeta TV
+#EXTINF:-1 group-title="Grupo 9",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Platzi TV
+#EXTINF:-1 group-title="Grupo 9",Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1 group-title="NonGroup",Prensa Latina TV
+#EXTINF:-1 group-title="Grupo 9",Prensa Latina TV
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Q'hubo TV
+#EXTINF:-1 group-title="Grupo 9",Q'hubo TV
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",RadioMensaje TV
+#EXTINF:-1 group-title="Grupo 9",RadioMensaje TV
 https://eu1.servers10.com:8081/8230/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Restaurando Vidas Internacional
+#EXTINF:-1 group-title="Grupo 9",Restaurando Vidas Internacional
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Revry LatinX
+#EXTINF:-1 group-title="Grupo 9",Revry LatinX
 https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Salvacion TV
+#EXTINF:-1 group-title="Grupo 9",Salvacion TV
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",SC Currents
+#EXTINF:-1 group-title="Grupo 9",SC Currents
 https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
-#EXTINF:-1 group-title="NonGroup",SolTV
+#EXTINF:-1 group-title="Grupo 9",SolTV
 https://stream.solmediaeg.com/soltv/soltv.m3u8
-#EXTINF:-1 group-title="NonGroup",Somos TV
+#EXTINF:-1 group-title="Grupo 9",Somos TV
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Sophia TV Espanol
+#EXTINF:-1 group-title="Grupo 9",Sophia TV Espanol
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Stingray Classica
+#EXTINF:-1 group-title="Grupo 9",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="NonGroup",SUMtv Latino
+#EXTINF:-1 group-title="Grupo 9",SUMtv Latino
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Super Canal
+#EXTINF:-1 group-title="Grupo 9",Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 group-title="NonGroup",TaberTV
+#EXTINF:-1 group-title="Grupo 9",TaberTV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
-#EXTINF:-1 group-title="DeCajon",TCS+
+#EXTINF:-1 group-title="Grupo 1",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-#EXTINF:-1 group-title="NonGroup",Telecosta
+#EXTINF:-1 group-title="Grupo 9",Telecosta
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 group-title="NonGroup",Telenorte
+#EXTINF:-1 group-title="Grupo 9",Telenorte
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Teve Vida Network
+#EXTINF:-1 group-title="Grupo 9",Teve Vida Network
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
-#EXTINF:-1 group-title="NonGroup",Turf Movil
+#EXTINF:-1 group-title="Grupo 9",Turf Movil
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
-#EXTINF:-1 group-title="NonGroup",Tu Universo TV
+#EXTINF:-1 group-title="Grupo 9",Tu Universo TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",TVCa
+#EXTINF:-1 group-title="Grupo 9",TVCa
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",TV Cosmos
+#EXTINF:-1 group-title="Grupo 9",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",TV Peru
+#EXTINF:-1 group-title="Grupo 9",TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-#EXTINF:-1 group-title="NonGroup",TV Sistemas Cuzco
+#EXTINF:-1 group-title="Grupo 9",TV Sistemas Cuzco
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",UCL
+#EXTINF:-1 group-title="Grupo 9",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 group-title="NonGroup",Uranio TV
+#EXTINF:-1 group-title="Grupo 9",Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Vepaco TV
+#EXTINF:-1 group-title="Grupo 9",Vepaco TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
-#EXTINF:-1 group-title="NonGroup",VIVO TV
+#EXTINF:-1 group-title="Grupo 9",VIVO TV
 https://stream.vivotv.uy/hls/stream.m3u8
-#EXTINF:-1 group-title="NonGroup",VM Latino
+#EXTINF:-1 group-title="Grupo 9",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",WELU-DT1
+#EXTINF:-1 group-title="Grupo 9",WELU-DT1
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",WFSU-DT2
+#EXTINF:-1 group-title="Grupo 9",WFSU-DT2
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="NonGroup",WKAQ-DT1
+#EXTINF:-1 group-title="Grupo 9",WKAQ-DT1
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="NonGroup",WKAQ-DT2
+#EXTINF:-1 group-title="Grupo 9",WKAQ-DT2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 group-title="NonGroup",XEIPN-TDT
+#EXTINF:-1 group-title="Grupo 9",XEIPN-TDT
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",XHSPR-TDT1
+#EXTINF:-1 group-title="Grupo 9",XHSPR-TDT1
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:-1 group-title="DeCajon",Xtrema Animal
+#EXTINF:-1 group-title="Grupo 1",Xtrema Animal
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Yuma Channel 72
+#EXTINF:-1 group-title="Grupo 9",Yuma Channel 72
 https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Yuma Channel 73
+#EXTINF:-1 group-title="Grupo 9",Yuma Channel 73
 https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup", Conecta TV | MX
+#EXTINF:-1 group-title="Grupo 9", Conecta TV | MX
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", Recuerdos Retro Radio TV | CL
+#EXTINF:-1 group-title="Grupo 9", Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="DeCajon", ADN 40 | MX
+#EXTINF:-1 group-title="Grupo 1", ADN 40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", Canal 10 Cancun | MX
+#EXTINF:-1 group-title="Grupo 9", Canal 10 Cancun | MX
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", Canal 10 Chiapas | MX
+#EXTINF:-1 group-title="Grupo 9", Canal 10 Chiapas | MX
 https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="DeCajon", Mexiquense TV | MX
+#EXTINF:-1 group-title="Grupo 1", Mexiquense TV | MX
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", Multimedios CDMX | MX
+#EXTINF:-1 group-title="Grupo 9", Multimedios CDMX | MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", Multimedios Guadalajara | MX
+#EXTINF:-1 group-title="Grupo 9", Multimedios Guadalajara | MX
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", Multimedios Laguna | MX
+#EXTINF:-1 group-title="Grupo 9", Multimedios Laguna | MX
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", Multimedios Monterrey | MX
+#EXTINF:-1 group-title="Grupo 9", Multimedios Monterrey | MX
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="DeCajon", RCG 1 Saltillo | MX
+#EXTINF:-1 group-title="Grupo 1", RCG 1 Saltillo | MX
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", RTQ Queretaro | MX
+#EXTINF:-1 group-title="Grupo 9", RTQ Queretaro | MX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", Teleritmo | MX
+#EXTINF:-1 group-title="Grupo 9", Teleritmo | MX
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", Tempus Stream | MX
+#EXTINF:-1 group-title="Grupo 9", Tempus Stream | MX
 https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", Tlaxcala TV | MX
+#EXTINF:-1 group-title="Grupo 9", Tlaxcala TV | MX
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", TV Lobo | MX
+#EXTINF:-1 group-title="Grupo 9", TV Lobo | MX
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", TV4 Noticias | MX
+#EXTINF:-1 group-title="Grupo 9", TV4 Noticias | MX
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", TVP Culiacan | MX
+#EXTINF:-1 group-title="Grupo 9", TVP Culiacan | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", TVP Los Mochis | MX
+#EXTINF:-1 group-title="Grupo 9", TVP Los Mochis | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", TVP Mazatlan | MX
+#EXTINF:-1 group-title="Grupo 9", TVP Mazatlan | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", TVP Obregon | MX
+#EXTINF:-1 group-title="Grupo 9", TVP Obregon | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", UMTV | MX
+#EXTINF:-1 group-title="Grupo 9", UMTV | MX
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", AMX Noticias | MX
+#EXTINF:-1 group-title="Grupo 9", AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup", Alcance TV | MX
+#EXTINF:-1 group-title="Grupo 9", Alcance TV | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NonGroup",LOCOMOTION
+#EXTINF:-1 group-title="Grupo 9",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="DeCajon",Telemundo
+#EXTINF:-1 group-title="Grupo 1",Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="DeCajon",Azteca Uno - 1H
+#EXTINF:-1 group-title="Grupo 1",Azteca Uno - 1H
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
-#EXTINF:-1 group-title="NonGroup",MX MULTIMEDIOS TELEDIARIO NOW
+#EXTINF:-1 group-title="Grupo 9",MX MULTIMEDIOS TELEDIARIO NOW
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252ftelediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa08kwr6CgtXl8ZbK0rIs%3D
-#EXTINF:-1 group-title="DeCajon",MX N+ MTY
+#EXTINF:-1 group-title="Grupo 1",MX N+ MTY
 https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
-#EXTINF:-1 group-title="NonGroup",MX MARIA VISION
+#EXTINF:-1 group-title="Grupo 9",MX MARIA VISION
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",MX EWTN
+#EXTINF:-1 group-title="Grupo 9",MX EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="zMovies",US CANAL 57
+#EXTINF:-1 group-title="Grupo 2",US CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="NonGroup",US AL JAZEERA EN
+#EXTINF:-1 group-title="Grupo 9",US AL JAZEERA EN
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
-#EXTINF:-1 group-title="NonGroup",PR PUNTO 2
+#EXTINF:-1 group-title="Grupo 9",PR PUNTO 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 group-title="NonGroup",GT TV AZTECA GUATE
+#EXTINF:-1 group-title="Grupo 9",GT TV AZTECA GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 group-title="NonGroup",BO BOLIVISION
+#EXTINF:-1 group-title="Grupo 9",BO BOLIVISION
 https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
-#EXTINF:-1 group-title="NonGroup",US TELEMUNDO 51 MIAMI
+#EXTINF:-1 group-title="Grupo 9",US TELEMUNDO 51 MIAMI
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 group-title="NonGroup",AGS CANAL 26
+#EXTINF:-1 group-title="Grupo 9",AGS CANAL 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",CAM TRC
+#EXTINF:-1 group-title="Grupo 9",CAM TRC
 https://5f1af61612fb5.streamlock.net/trc/videotrc/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",CDMX A+
+#EXTINF:-1 group-title="Grupo 9",CDMX A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="NonGroup",CDMX ONCE
+#EXTINF:-1 group-title="Grupo 9",CDMX ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",CDMX CANAL 14
+#EXTINF:-1 group-title="Grupo 9",CDMX CANAL 14
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
-#EXTINF:-1 group-title="DeCajon",CANAL 44 Chihuahua
+#EXTINF:-1 group-title="Grupo 1",CANAL 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",CHIAP CANAL 10
+#EXTINF:-1 group-title="Grupo 9",CHIAP CANAL 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",DGO CANAL 10
+#EXTINF:-1 group-title="Grupo 9",DGO CANAL 10
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",EDOMEX AMX
+#EXTINF:-1 group-title="Grupo 9",EDOMEX AMX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",GTO TV 4.1
+#EXTINF:-1 group-title="Grupo 9",GTO TV 4.1
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",GTO TV 4.2
+#EXTINF:-1 group-title="Grupo 9",GTO TV 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",QOO CANAL 10 CANCUN
+#EXTINF:-1 group-title="Grupo 9",QOO CANAL 10 CANCUN
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",TAB TV UJAT
+#EXTINF:-1 group-title="Grupo 9",TAB TV UJAT
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",VER RTV  VERACRUZ
+#EXTINF:-1 group-title="Grupo 9",VER RTV  VERACRUZ
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="zDeportes",MX TUBI FOX SPORTS
+#EXTINF:-1 group-title="Grupo 3",MX TUBI FOX SPORTS
 #https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
-#EXTINF:-1 group-title="zDeportes",MX CANELA DEPORTES
+#EXTINF:-1 group-title="Grupo 3",MX CANELA DEPORTES
 https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",MX INTERNETV DEPORTES
+#EXTINF:-1 group-title="Grupo 9",MX INTERNETV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-#EXTINF:-1 group-title="DeCajon",MX AYM SPORTS
+#EXTINF:-1 group-title="Grupo 1",MX AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-#EXTINF:-1 group-title="DeCajon",MX CLARO SPORTS
+#EXTINF:-1 group-title="Grupo 1",MX CLARO SPORTS
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 
-#EXTINF:-1 group-title="NonGroup",LATIN POP
+#EXTINF:-1 group-title="Grupo 9",LATIN POP
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="NonGroup",SEASON
+#EXTINF:-1 group-title="Grupo 9",SEASON
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="NonGroup",ROMANCE LATINO
+#EXTINF:-1 group-title="Grupo 9",ROMANCE LATINO
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="NonGroup",REMEMBER THE 80s
+#EXTINF:-1 group-title="Grupo 9",REMEMBER THE 80s
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742
-#EXTINF:-1 group-title="NonGroup",GREATEST HITS
+#EXTINF:-1 group-title="Grupo 9",GREATEST HITS
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
-#EXTINF:-1 group-title="NonGroup",COUNTRY
+#EXTINF:-1 group-title="Grupo 9",COUNTRY
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118
-#EXTINF:-1 group-title="NonGroup",Inspiration
+#EXTINF:-1 group-title="Grupo 9",Inspiration
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8
-#EXTINF:-1 group-title="NonGroup",Yahoo! Finance
+#EXTINF:-1 group-title="Grupo 9",Yahoo! Finance
 https://yahoo-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",FOX 11 Los Angeles
+#EXTINF:-1 group-title="Grupo 9",FOX 11 Los Angeles
 https://live-manifest.production-public.tubi.io/live/346a3973-426a-45dc-85fd-a598cc9d1487/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Zoomoo
+#EXTINF:-1 group-title="Grupo 9",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="NonGroup",Punt 3 Vall Uxo
+#EXTINF:-1 group-title="Grupo 9",Punt 3 Vall Uxo
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:-1 group-title="NonGroup",TVG Xabarin
+#EXTINF:-1 group-title="Grupo 9",TVG Xabarin
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Mr. Bean
+#EXTINF:-1 group-title="Grupo 9",Mr. Bean
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",CGTN Espanol
+#EXTINF:-1 group-title="Grupo 9",CGTN Espanol
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Star tve
+#EXTINF:-1 group-title="Grupo 9",Star tve
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 group-title="NonGroup",3/24
+#EXTINF:-1 group-title="Grupo 9",3/24
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
-#EXTINF:-1 group-title="NonGroup",Sala de Emergencias
+#EXTINF:-1 group-title="Grupo 9",Sala de Emergencias
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 group-title="NonGroup",Novelisima
+#EXTINF:-1 group-title="Grupo 9",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 group-title="NonGroup",The Pet Collective
+#EXTINF:-1 group-title="Grupo 9",The Pet Collective
 https://bit.ly/3sYLlrg?profile=inspirationFreetv.m3u8
-#EXTINF:-1 group-title="NonGroup",Drone TV
+#EXTINF:-1 group-title="Grupo 9",Drone TV
 https://airvuz-dronetv-1-eu.zeasn.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="DeCajon",Mundo Viajero
+#EXTINF:-1 group-title="Grupo 1",Mundo Viajero
 https://bit.ly/3I0AOVr?profile=inspirationFreetv.m3u8
-#EXTINF:-1 group-title="NonGroup",Z Nation
+#EXTINF:-1 group-title="Grupo 9",Z Nation
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b3af1c3a4ad200081c7d03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 group-title="NonGroup",Cine Drama
+#EXTINF:-1 group-title="Grupo 9",Cine Drama
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
-#EXTINF:-1 group-title="DeCajon",History
+#EXTINF:-1 group-title="Grupo 1",History
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="zDeportes",E Sports
+#EXTINF:-1 group-title="Grupo 3",E Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 group-title="zDeportes",Bein SportXtra
+#EXTINF:-1 group-title="Grupo 3",Bein SportXtra
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",La liga Inside
+#EXTINF:-1 group-title="Grupo 9",La liga Inside
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
-#EXTINF:-1 group-title="NonGroup",Fifa+
+#EXTINF:-1 group-title="Grupo 9",Fifa+
 https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
-#EXTINF:-1 group-title="NonGroup",4Ever Music
+#EXTINF:-1 group-title="Grupo 9",4Ever Music
 https://iptv.prosto.tv/id271/video.m3u8
-#EXTINF:-1 group-title="NonGroup",MTV Flow Latino
+#EXTINF:-1 group-title="Grupo 9",MTV Flow Latino
 https://stitcher.pluto.tv/stitch/hls/channel/6686771cfd9eb200087b658e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc
-#EXTINF:-1 group-title="NonGroup",Vevo '70s & '80s
+#EXTINF:-1 group-title="Grupo 9",Vevo '70s & '80s
 https://d8ey2gcjuai15.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t4dwcnavbvxsk/Vevo70sand80s_GB.m3u8
-#EXTINF:-1 group-title="NonGroup",Vevo Pop
+#EXTINF:-1 group-title="Grupo 9",Vevo Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Vevo 2k
+#EXTINF:-1 group-title="Grupo 9",Vevo 2k
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",Vevo Country
+#EXTINF:-1 group-title="Grupo 9",Vevo Country
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",XITE Rock X Metal
+#EXTINF:-1 group-title="Grupo 9",XITE Rock X Metal
 https://stitcher.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
-#EXTINF:-1 group-title="NonGroup",Rockola tv
+#EXTINF:-1 group-title="Grupo 9",Rockola tv
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8
 
 
-#EXTINF:-1 group-title="zDeportes", ITV DEPORTES
+#EXTINF:-1 group-title="Grupo 3", ITV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-#EXTINF:-1 group-title="zDeportes", AYM Sports
+#EXTINF:-1 group-title="Grupo 3", AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-#EXTINF:-1 group-title="NonGroup", Toon Goggles
+#EXTINF:-1 group-title="Grupo 9", Toon Goggles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-#EXTINF:-1 group-title="NonGroup", Kanal D Drama
+#EXTINF:-1 group-title="Grupo 9", Kanal D Drama
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1 group-title="NonGroup", Corazón Fast
+#EXTINF:-1 group-title="Grupo 9", Corazón Fast
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
-#EXTINF:-1 group-title="NonGroup", Clic Fast
+#EXTINF:-1 group-title="Grupo 9", Clic Fast
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-#EXTINF:-1 group-title="NonGroup", CombaTV
+#EXTINF:-1 group-title="Grupo 9", CombaTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
-#EXTINF:-1 group-title="NonGroup", WPT
+#EXTINF:-1 group-title="Grupo 9", WPT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
-#EXTINF:-1 group-title="NonGroup", C4 En Alerta
+#EXTINF:-1 group-title="Grupo 9", C4 En Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
-#EXTINF:-1 group-title="NonGroup", Canal 6 CDMX
+#EXTINF:-1 group-title="Grupo 9", Canal 6 CDMX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
-#EXTINF:-1 group-title="NonGroup", Milenio Televisión
+#EXTINF:-1 group-title="Grupo 9", Milenio Televisión
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
-#EXTINF:-1 group-title="NonGroup", Telediario Now
+#EXTINF:-1 group-title="Grupo 9", Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
-#EXTINF:-1 group-title="NonGroup", Teleformula
+#EXTINF:-1 group-title="Grupo 9", Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
-#EXTINF:-1 group-title="NonGroup", Azteca Uno (-1h)
+#EXTINF:-1 group-title="Grupo 9", Azteca Uno (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
-#EXTINF:-1 group-title="NonGroup", Imagen TV+ (-1h)
+#EXTINF:-1 group-title="Grupo 9", Imagen TV+ (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:-1 group-title="NonGroup",Vevo Pop
+#EXTINF:-1 group-title="Grupo 9",Vevo Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="NonGroup",Vevo Latino
+#EXTINF:-1 group-title="Grupo 9",Vevo Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="NonGroup",Vevo Iconos Latinos
+#EXTINF:-1 group-title="Grupo 9",Vevo Iconos Latinos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="NonGroup",Vevo Regional Mexicano
+#EXTINF:-1 group-title="Grupo 9",Vevo Regional Mexicano
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="NonGroup",Vevo Country
+#EXTINF:-1 group-title="Grupo 9",Vevo Country
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="NonGroup",Vevo R&B
+#EXTINF:-1 group-title="Grupo 9",Vevo R&B
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="NonGroup",Vevo '70s
+#EXTINF:-1 group-title="Grupo 9",Vevo '70s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="NonGroup",Vevo '80s
+#EXTINF:-1 group-title="Grupo 9",Vevo '80s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="NonGroup",Vevo '90s
+#EXTINF:-1 group-title="Grupo 9",Vevo '90s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="NonGroup",Vevo 2K
+#EXTINF:-1 group-title="Grupo 9",Vevo 2K
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="NonGroup",Vevo Hip-Hop
+#EXTINF:-1 group-title="Grupo 9",Vevo Hip-Hop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 group-title="NonGroup",TV Migrante
+#EXTINF:-1 group-title="Grupo 9",TV Migrante
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 6 LAG
+#EXTINF:-1 group-title="Grupo 9",Canal 6 LAG
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 6 GDL
+#EXTINF:-1 group-title="Grupo 9",Canal 6 GDL
 http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 6 PUE
+#EXTINF:-1 group-title="Grupo 9",Canal 6 PUE
 http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 6 GTO
+#EXTINF:-1 group-title="Grupo 9",Canal 6 GTO
 http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 6 SAL
+#EXTINF:-1 group-title="Grupo 9",Canal 6 SAL
 http://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 6 CDJ
+#EXTINF:-1 group-title="Grupo 9",Canal 6 CDJ
 http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 8 SJCR
+#EXTINF:-1 group-title="Grupo 9",Canal 8 SJCR
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 group-title="NonGroup", AZTECA UNO (SIN CORTES)
+#EXTINF:-1 group-title="Grupo 9", AZTECA UNO (SIN CORTES)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="NonGroup", AZTECA 7 (SIN CORTES)
+#EXTINF:-1 group-title="Grupo 9", AZTECA 7 (SIN CORTES)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="NonGroup", A MÁS (SIN CORTES)
+#EXTINF:-1 group-title="Grupo 9", A MÁS (SIN CORTES)
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="NonGroup", ADN40 (SIN CORTES)
+#EXTINF:-1 group-title="Grupo 9", ADN40 (SIN CORTES)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="NonGroup", VA+ 26.1
+#EXTINF:-1 group-title="Grupo 9", VA+ 26.1
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="NonGroup", Portal FoxMix
+#EXTINF:-1 group-title="Grupo 9", Portal FoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup", Retro Music Television
+#EXTINF:-1 group-title="Grupo 9", Retro Music Television
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup", m2o TV
+#EXTINF:-1 group-title="Grupo 9", m2o TV
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup", Turbo Mix TV
+#EXTINF:-1 group-title="Grupo 9", Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 group-title="NonGroup",24 Horas
+#EXTINF:-1 group-title="Grupo 9",24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_360.m3u8
-#EXTINF:-1 group-title="NonGroup",8NTV
+#EXTINF:-1 group-title="Grupo 9",8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w1674309445.m3u8
 
-#EXTINF:-1 group-title="NonGroup",Juvenal English
+#EXTINF:-1 group-title="Grupo 9",Juvenal English
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="zDeportes",ESPN 2 HD
+#EXTINF:-1 group-title="Grupo 3",ESPN 2 HD
 http://181.78.82.6:46090/play/a00i/index.m3u8
-#EXTINF:-1 group-title="zDeportes",ESPN 3 HD
+#EXTINF:-1 group-title="Grupo 3",ESPN 3 HD
 http://181.78.82.6:46090/play/a00v/index.m3u8
-#EXTINF:-1 group-title="zDeportes",ESPN 6 HD
+#EXTINF:-1 group-title="Grupo 3",ESPN 6 HD
 http://181.78.82.6:46090/play/a00w/index.m3u8
-#EXTINF:-1 group-title="zDeportes",ESPN ARG HD
+#EXTINF:-1 group-title="Grupo 3",ESPN ARG HD
 http://181.78.82.6:46090/play/a00q/index.m3u8
 
 
-#EXTINF:-1 group-title="NonGroup", LCDLF 1
+#EXTINF:-1 group-title="Grupo 9", LCDLF 1
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
-#EXTINF:-1 group-title="NonGroup", LCDLF 2
+#EXTINF:-1 group-title="Grupo 9", LCDLF 2
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
 
-#EXTINF:-1 group-title="NonGroup",MyTime Movie
+#EXTINF:-1 group-title="Grupo 9",MyTime Movie
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",ZAZ
+#EXTINF:-1 group-title="Grupo 9",ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
-#EXTINF:-1 group-title="NonGroup", Estilo y Vida – Rakuten TV
+#EXTINF:-1 group-title="Grupo 9", Estilo y Vida – Rakuten TV
 https://jmp2.uk/sam-ES26000068D.m3u8
-#EXTINF:-1 group-title="NonGroup", MTV Cribs
+#EXTINF:-1 group-title="Grupo 9", MTV Cribs
 https://jmp2.uk/sam-ESAJ3800006TT.m3u8
-#EXTINF:-1 group-title="NonGroup", MTV Originals
+#EXTINF:-1 group-title="Grupo 9", MTV Originals
 https://jmp2.uk/sam-ESAJ380000226.m3u8
-#EXTINF:-1 group-title="NonGroup", ¡Hola! Play
+#EXTINF:-1 group-title="Grupo 9", ¡Hola! Play
 https://jmp2.uk/sam-ES26000025M.m3u8
-#EXTINF:-1 group-title="NonGroup", Ideas en 5 Minutos
+#EXTINF:-1 group-title="Grupo 9", Ideas en 5 Minutos
 https://jmp2.uk/sam-ESBC3500002PW.m3u8
-#EXTINF:-1 group-title="NonGroup", Fashion TV
+#EXTINF:-1 group-title="Grupo 9", Fashion TV
 https://jmp2.uk/sam-ESAJ4500017Y1.m3u8
-#EXTINF:-1 group-title="NonGroup", Azteca Internacional
+#EXTINF:-1 group-title="Grupo 9", Azteca Internacional
 https://jmp2.uk/sam-ESBD1300004IG.m3u8
-#EXTINF:-1 group-title="NonGroup", Encantador de Perros
+#EXTINF:-1 group-title="Grupo 9", Encantador de Perros
 https://jmp2.uk/sam-ESBA3300033PL.m3u8
-#EXTINF:-1 group-title="NonGroup", H2O & Friends
+#EXTINF:-1 group-title="Grupo 9", H2O & Friends
 https://jmp2.uk/sam-ES500002NY.m3u8
-#EXTINF:-1 group-title="NonGroup", 2M
+#EXTINF:-1 group-title="Grupo 9", 2M
 https://jmp2.uk/sam-ES4700001VS.m3u8
-#EXTINF:-1 group-title="NonGroup", Hoguera
+#EXTINF:-1 group-title="Grupo 9", Hoguera
 https://jmp2.uk/sam-ESBD1500001SD.m3u8
-#EXTINF:-1 group-title="NonGroup", Cuéntame cómo pasó
+#EXTINF:-1 group-title="Grupo 9", Cuéntame cómo pasó
 https://jmp2.uk/sam-ES400002P5.m3u8
-#EXTINF:-1 group-title="NonGroup", Baywatch – Los Vigilantes de la Playa
+#EXTINF:-1 group-title="Grupo 9", Baywatch – Los Vigilantes de la Playa
 https://jmp2.uk/sam-ESBD1300001EP.m3u8
-#EXTINF:-1 group-title="NonGroup", Las Reglas Del Juego
+#EXTINF:-1 group-title="Grupo 9", Las Reglas Del Juego
 https://jmp2.uk/sam-ESBA3300027H5.m3u8
-#EXTINF:-1 group-title="NonGroup", Águila Roja
+#EXTINF:-1 group-title="Grupo 9", Águila Roja
 https://jmp2.uk/sam-ES500005BP.m3u8
-#EXTINF:-1 group-title="NonGroup", Corazón
+#EXTINF:-1 group-title="Grupo 9", Corazón
 https://jmp2.uk/sam-ESBD1300003VN.m3u8
-#EXTINF:-1 group-title="NonGroup", Vive Kanal D Drama
+#EXTINF:-1 group-title="Grupo 9", Vive Kanal D Drama
 https://jmp2.uk/sam-ESBC1700001QI.m3u8
-#EXTINF:-1 group-title="NonGroup", CNN FAST
+#EXTINF:-1 group-title="Grupo 9", CNN FAST
 https://jmp2.uk/sam-ESBD190000137.m3u8
-#EXTINF:-1 group-title="NonGroup", NBC News NOW
+#EXTINF:-1 group-title="Grupo 9", NBC News NOW
 https://jmp2.uk/sam-ESBC400003YM.m3u8
-#EXTINF:-1 group-title="NonGroup", FRANCE 24 FAST
+#EXTINF:-1 group-title="Grupo 9", FRANCE 24 FAST
 https://jmp2.uk/sam-ESBD1100001PQ.m3u8
-#EXTINF:-1 group-title="NonGroup", El Comisario
+#EXTINF:-1 group-title="Grupo 9", El Comisario
 https://jmp2.uk/sam-ESBA3300029UG.m3u8
-#EXTINF:-1 group-title="NonGroup", Los Asesinatos de Midsomer
+#EXTINF:-1 group-title="Grupo 9", Los Asesinatos de Midsomer
 https://jmp2.uk/sam-ESBA3300025WZ.m3u8
-#EXTINF:-1 group-title="NonGroup", Forensic Files
+#EXTINF:-1 group-title="Grupo 9", Forensic Files
 https://jmp2.uk/sam-ES2600001MC.m3u8
-#EXTINF:-1 group-title="NonGroup", DATELINE 24/7
+#EXTINF:-1 group-title="Grupo 9", DATELINE 24/7
 https://jmp2.uk/sam-ESBD3700001S0.m3u8
-#EXTINF:-1 group-title="NonGroup", Crimen - Rakuten TV
+#EXTINF:-1 group-title="Grupo 9", Crimen - Rakuten TV
 https://jmp2.uk/sam-ES2600005G9.m3u8
-#EXTINF:-1 group-title="zDeportes", La Liga Inside
+#EXTINF:-1 group-title="Grupo 3", La Liga Inside
 https://jmp2.uk/sam-ESBD3600001Q1.m3u8
-#EXTINF:-1 group-title="NonGroup", DFB Play TV
+#EXTINF:-1 group-title="Grupo 9", DFB Play TV
 https://jmp2.uk/sam-ES3200003OC.m3u8
-#EXTINF:-1 group-title="zDeportes", FIFA+
+#EXTINF:-1 group-title="Grupo 3", FIFA+
 https://jmp2.uk/sam-ESBC2700009B4.m3u8
-#EXTINF:-1 group-title="NonGroup", Motorvision
+#EXTINF:-1 group-title="Grupo 9", Motorvision
 https://jmp2.uk/sam-ESBD3200001EG.m3u8
-#EXTINF:-1 group-title="NonGroup", World Poker Tour
+#EXTINF:-1 group-title="Grupo 9", World Poker Tour
 https://jmp2.uk/sam-ESBD2900001P9.m3u8
-#EXTINF:-1 group-title="NonGroup", Televisión Consciente
+#EXTINF:-1 group-title="Grupo 9", Televisión Consciente
 https://jmp2.uk/sam-ESBC1700002IM.m3u8
-#EXTINF:-1 group-title="NonGroup", LooLoo Kids
+#EXTINF:-1 group-title="Grupo 9", LooLoo Kids
 https://jmp2.uk/sam-ES5000001CS.m3u8
-#EXTINF:-1 group-title="NonGroup", Pitufo TV
+#EXTINF:-1 group-title="Grupo 9", Pitufo TV
 https://jmp2.uk/sam-ESBD130000205.m3u8
-#EXTINF:-1 group-title="NonGroup", Caillou
+#EXTINF:-1 group-title="Grupo 9", Caillou
 https://jmp2.uk/sam-ES4800002OZ.m3u8
-#EXTINF:-1 group-title="NonGroup", DuckTV
+#EXTINF:-1 group-title="Grupo 9", DuckTV
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
-#EXTINF:-1 group-title="NonGroup", SuperToons TV
+#EXTINF:-1 group-title="Grupo 9", SuperToons TV
 https://jmp2.uk/sam-ESBD5100001G0.m3u8
-#EXTINF:-1 group-title="NonGroup", Rabbids : La invasion
+#EXTINF:-1 group-title="Grupo 9", Rabbids : La invasion
 https://jmp2.uk/sam-ESBD2300003S5.m3u8
-#EXTINF:-1 group-title="NonGroup", Rugrats
+#EXTINF:-1 group-title="Grupo 9", Rugrats
 https://jmp2.uk/sam-ESBA33000324U.m3u8
-#EXTINF:-1 group-title="NonGroup", Bob Esponja
+#EXTINF:-1 group-title="Grupo 9", Bob Esponja
 https://jmp2.uk/sam-ESBA33000262Z.m3u8
-#EXTINF:-1 group-title="NonGroup", Pluto TV Animakids
+#EXTINF:-1 group-title="Grupo 9", Pluto TV Animakids
 https://jmp2.uk/sam-ESAJ3800009VJ.m3u8
-#EXTINF:-1 group-title="NonGroup", Rantaro El Ninja Boy
+#EXTINF:-1 group-title="Grupo 9", Rantaro El Ninja Boy
 https://jmp2.uk/sam-ES2600008NX.m3u8
-#EXTINF:-1 group-title="NonGroup", Pluto TV Kids
+#EXTINF:-1 group-title="Grupo 9", Pluto TV Kids
 https://jmp2.uk/sam-ESAJ38000046O.m3u8
-#EXTINF:-1 group-title="NonGroup", iCarly
+#EXTINF:-1 group-title="Grupo 9", iCarly
 https://jmp2.uk/sam-ESBA3300028OE.m3u8
-#EXTINF:-1 group-title="NonGroup", En Familia - Rakuten TV
+#EXTINF:-1 group-title="Grupo 9", En Familia - Rakuten TV
 https://jmp2.uk/sam-ES260001081.m3u8
-#EXTINF:-1 group-title="NonGroup", Runtime Familia
+#EXTINF:-1 group-title="Grupo 9", Runtime Familia
 https://jmp2.uk/sam-ES700004C8.m3u8
-#EXTINF:-1 group-title="NonGroup", RTVE Somos Cine
+#EXTINF:-1 group-title="Grupo 9", RTVE Somos Cine
 https://jmp2.uk/sam-ES33000058B.m3u8
-#EXTINF:-1 group-title="NonGroup", Trailers
+#EXTINF:-1 group-title="Grupo 9", Trailers
 https://jmp2.uk/sam-ESBC1700004PX.m3u8
-#EXTINF:-1 group-title="NonGroup", Pluto TV Cine Estelar
+#EXTINF:-1 group-title="Grupo 9", Pluto TV Cine Estelar
 https://jmp2.uk/sam-ESAJ3800001KT.m3u8
-#EXTINF:-1 group-title="NonGroup", Runtime
+#EXTINF:-1 group-title="Grupo 9", Runtime
 https://jmp2.uk/sam-ESBC400001QQ.m3u8
-#EXTINF:-1 group-title="NonGroup", Películas Top - Rakuten TV
+#EXTINF:-1 group-title="Grupo 9", Películas Top - Rakuten TV
 https://jmp2.uk/sam-ES2600013H4.m3u8
-#EXTINF:-1 group-title="NonGroup", Runtime Romance
+#EXTINF:-1 group-title="Grupo 9", Runtime Romance
 https://jmp2.uk/sam-ESBD800004KU.m3u8
-#EXTINF:-1 group-title="NonGroup", Películas Románticas - Rakuten TV
+#EXTINF:-1 group-title="Grupo 9", Películas Románticas - Rakuten TV
 https://jmp2.uk/sam-ES2600012C9.m3u8
-#EXTINF:-1 group-title="NonGroup", Runtime Comedia
+#EXTINF:-1 group-title="Grupo 9", Runtime Comedia
 https://jmp2.uk/sam-ESBD8000033W.m3u8
-#EXTINF:-1 group-title="NonGroup", Comedia - Rakuten TV
+#EXTINF:-1 group-title="Grupo 9", Comedia - Rakuten TV
 https://jmp2.uk/sam-ES260000700.m3u8
-#EXTINF:-1 group-title="NonGroup", Gringo - Películas Del Oeste
+#EXTINF:-1 group-title="Grupo 9", Gringo - Películas Del Oeste
 https://jmp2.uk/sam-ESBC2700002LO.m3u8
-#EXTINF:-1 group-title="NonGroup", Bigtime - Películas Gratis
+#EXTINF:-1 group-title="Grupo 9", Bigtime - Películas Gratis
 https://jmp2.uk/sam-ESBC2700003T8.m3u8
-#EXTINF:-1 group-title="NonGroup", Cine Español - Rakuten TV
+#EXTINF:-1 group-title="Grupo 9", Cine Español - Rakuten TV
 https://jmp2.uk/sam-ES3000008O8.m3u8
-#EXTINF:-1 group-title="NonGroup", Action Movie Channel
+#EXTINF:-1 group-title="Grupo 9", Action Movie Channel
 https://jmp2.uk/sam-ESBC40000248.m3u8
-#EXTINF:-1 group-title="NonGroup", Sci-Fi - Rakuten TV
+#EXTINF:-1 group-title="Grupo 9", Sci-Fi - Rakuten TV
 https://jmp2.uk/sam-ES500004NO.m3u8
-#EXTINF:-1 group-title="NonGroup", Cine Friki
+#EXTINF:-1 group-title="Grupo 9", Cine Friki
 https://jmp2.uk/sam-ESBD800001RJ.m3u8
-#EXTINF:-1 group-title="NonGroup", Runtime Acción
+#EXTINF:-1 group-title="Grupo 9", Runtime Acción
 https://jmp2.uk/sam-ESBD80000288.m3u8
-#EXTINF:-1 group-title="NonGroup", Películas de Drama - Rakuten TV
+#EXTINF:-1 group-title="Grupo 9", Películas de Drama - Rakuten TV
 https://jmp2.uk/sam-ES2600003UM.m3u8
-#EXTINF:-1 group-title="NonGroup", Acción - Rakuten TV
+#EXTINF:-1 group-title="Grupo 9", Acción - Rakuten TV
 https://jmp2.uk/sam-ES2600004BD.m3u8
-#EXTINF:-1 group-title="NonGroup", Vevo Latino
+#EXTINF:-1 group-title="Grupo 9", Vevo Latino
 https://jmp2.uk/sam-ESBC2100002LV.m3u8
-#EXTINF:-1 group-title="NonGroup", Vevo '70s & '80s
+#EXTINF:-1 group-title="Grupo 9", Vevo '70s & '80s
 https://jmp2.uk/sam-ESBD230000289.m3u8
-#EXTINF:-1 group-title="NonGroup", Vevo Pop
+#EXTINF:-1 group-title="Grupo 9", Vevo Pop
 https://jmp2.uk/sam-ESBC2100001IU.m3u8
-#EXTINF:-1 group-title="NonGroup", Trace Latina
+#EXTINF:-1 group-title="Grupo 9", Trace Latina
 https://jmp2.uk/sam-ESBA3300042Y6.m3u8
-#EXTINF:-1 group-title="NonGroup", Trace Urban
+#EXTINF:-1 group-title="Grupo 9", Trace Urban
 https://jmp2.uk/sam-ESBA3300043M0.m3u8
-#EXTINF:-1 group-title="NonGroup", Sol Música
+#EXTINF:-1 group-title="Grupo 9", Sol Música
 https://jmp2.uk/sam-ESBD2300004Y7.m3u8
-#EXTINF:-1 group-title="NonGroup", Cool Summer Channel
+#EXTINF:-1 group-title="Grupo 9", Cool Summer Channel
 https://jmp2.uk/sam-ES2500001F9.m3u8
-#EXTINF:-1 group-title="NonGroup", K-POP by CJ ENM
+#EXTINF:-1 group-title="Grupo 9", K-POP by CJ ENM
 https://jmp2.uk/sam-ES3900001QG.m3u8
-#EXTINF:-1 group-title="NonGroup", Deluxe Lounge HD
+#EXTINF:-1 group-title="Grupo 9", Deluxe Lounge HD
 https://jmp2.uk/sam-ESBA1500001C4.m3u8
-#EXTINF:-1 group-title="NonGroup", Pluto TV Cocina
+#EXTINF:-1 group-title="Grupo 9", Pluto TV Cocina
 https://jmp2.uk/sam-ESAJ3800007PC.m3u8
-#EXTINF:-1 group-title="NonGroup", GoUSA TV
+#EXTINF:-1 group-title="Grupo 9", GoUSA TV
 https://jmp2.uk/sam-ESBC27000040I.m3u8
-#EXTINF:-1 group-title="NonGroup", Royalworld - Nobleza y Dinastias
+#EXTINF:-1 group-title="Grupo 9", Royalworld - Nobleza y Dinastias
 https://jmp2.uk/sam-ESBD1400003QN.m3u8
-#EXTINF:-1 group-title="NonGroup", BBC Earth
+#EXTINF:-1 group-title="Grupo 9", BBC Earth
 https://jmp2.uk/sam-ES3200001F1.m3u8
-#EXTINF:-1 group-title="NonGroup", Love the Planet
+#EXTINF:-1 group-title="Grupo 9", Love the Planet
 https://jmp2.uk/sam-ESBC4700002TD.m3u8
-#EXTINF:-1 group-title="NonGroup", WaterBear
+#EXTINF:-1 group-title="Grupo 9", WaterBear
 https://jmp2.uk/sam-ESBC170000388.m3u8
-#EXTINF:-1 group-title="NonGroup", Stormcast Novelas
+#EXTINF:-1 group-title="Grupo 9", Stormcast Novelas
 https://jmp2.uk/sam-ESBA140000504.m3u8
-#EXTINF:-1 group-title="NonGroup", Todo Novelas
+#EXTINF:-1 group-title="Grupo 9", Todo Novelas
 https://jmp2.uk/sam-ESBC43000013T.m3u8
-#EXTINF:-1 group-title="NonGroup", Comedia Made in Spain
+#EXTINF:-1 group-title="Grupo 9", Comedia Made in Spain
 https://jmp2.uk/sam-ESAJ3800005C5.m3u8
-#EXTINF:-1 group-title="NonGroup", MTV Catfish
+#EXTINF:-1 group-title="Grupo 9", MTV Catfish
 https://jmp2.uk/sam-ESAJ3800003LX.m3u8
-#EXTINF:-1 group-title="NonGroup", FailArmy
+#EXTINF:-1 group-title="Grupo 9", FailArmy
 https://jmp2.uk/sam-ESBA1400006NP.m3u8
-#EXTINF:-1 group-title="NonGroup", People Are Awesome
+#EXTINF:-1 group-title="Grupo 9", People Are Awesome
 https://jmp2.uk/sam-ESAJ4500023Y5.m3u8
-#EXTINF:-1 group-title="NonGroup", The Pet Collective
+#EXTINF:-1 group-title="Grupo 9", The Pet Collective
 https://jmp2.uk/sam-ESAJ4500016BH.m3u8
-#EXTINF:-1 group-title="NonGroup", Just For Laughs
+#EXTINF:-1 group-title="Grupo 9", Just For Laughs
 https://jmp2.uk/sam-ESBC2700008SK.m3u8
 
 
-#EXTINF:-1 group-title="NonGroup", Wapp
+#EXTINF:-1 group-title="Grupo 9", Wapp
 http://clubtv.link/jun01/phpcode/distro.php?c=wapptv
-#EXTINF:-1 group-title="NonGroup", El Conflicto TV
+#EXTINF:-1 group-title="Grupo 9", El Conflicto TV
 http://clubtv.link/jun01/phpcode/distro.php?c=el-conflicto-tv
-#EXTINF:-1 group-title="NonGroup", Glewedtv Spanish
+#EXTINF:-1 group-title="Grupo 9", Glewedtv Spanish
 http://clubtv.link/jun01/phpcode/distro.php?c=glewedtv-spanish
-#EXTINF:-1 group-title="NonGroup", La Bocina Latina
+#EXTINF:-1 group-title="Grupo 9", La Bocina Latina
 http://clubtv.link/jun01/phpcode/distro.php?c=la-bocina-latina
-#EXTINF:-1 group-title="NonGroup", Trace Latina
+#EXTINF:-1 group-title="Grupo 9", Trace Latina
 http://clubtv.link/jun01/phpcode/distro.php?c=trace-latina
-#EXTINF:-1 group-title="NonGroup", FreeTV Hits
+#EXTINF:-1 group-title="Grupo 9", FreeTV Hits
 http://clubtv.link/jun01/phpcode/distro.php?c=freetv-hits
-#EXTINF:-1 group-title="NonGroup", XFT TV
+#EXTINF:-1 group-title="Grupo 9", XFT TV
 http://clubtv.link/jun01/phpcode/distro.php?c=xfc-tv
-#EXTINF:-1 group-title="NonGroup", Drama
+#EXTINF:-1 group-title="Grupo 9", Drama
 http://clubtv.link/jun01/phpcode/distro.php?c=freetv-drama-latam
-#EXTINF:-1 group-title="NonGroup", Pitufo TV
+#EXTINF:-1 group-title="Grupo 9", Pitufo TV
 http://clubtv.link/jun01/phpcode/distro.php?c=pitufo-tv
 
-#EXTINF:-1 group-title="zPremium", UNIVERSAL CRIME
+#EXTINF:-1 group-title="Grupo 4", UNIVERSAL CRIME
 http://clubtv.link/jun01/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", UNIVERSAL PREMIER
+#EXTINF:-1 group-title="Grupo 4", UNIVERSAL CINEMA
+http://clubtv.link/jun01/phpcode/lista0.php?c=36&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 group-title="Grupo 4", ANIMAL PLANET
+http://clubtv.link/jun01/phpcode/lista0.php?c=56&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 group-title="Grupo 4", UNIVERSAL PREMIER
 http://clubtv.link/jun01/phpcode/lista0.php?c=31&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", UNIVERSAL CHANNEL
+#EXTINF:-1 group-title="Grupo 4", UNIVERSO
+http://clubtv.link/jun01/phpcode/lista0.php?c=68&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 group-title="Grupo 4", UNIVERSAL CHANNEL
 http://clubtv.link/jun01/phpcode/lista0.php?c=38&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", HBO PLUS
+#EXTINF:-1 group-title="Grupo 4", HBO PLUS
 http://clubtv.link/jun01/phpcode/lista0.php?c=21&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", HBO
+#EXTINF:-1 group-title="Grupo 4", HBO
 http://clubtv.link/jun01/phpcode/lista0.php?c=24&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", HBO FAMILY
+#EXTINF:-1 group-title="Grupo 4", HBO FAMILY
 http://clubtv.link/jun01/phpcode/lista0.php?c=22&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", HBO SIGNATURE
+#EXTINF:-1 group-title="Grupo 4", HBO SIGNATURE
 http://clubtv.link/jun01/phpcode/lista0.php?c=20&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", HBO XTREME
+#EXTINF:-1 group-title="Grupo 4", HBO XTREME
 http://clubtv.link/jun01/phpcode/lista0.php?c=16&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", AXN
+#EXTINF:-1 group-title="Grupo 4", AXN
 http://clubtv.link/jun01/phpcode/lista0.php?c=55&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", SPACE
+#EXTINF:-1 group-title="Grupo 4", SPACE
 http://clubtv.link/jun01/phpcode/lista0.php?c=10&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", TNT
+#EXTINF:-1 group-title="Grupo 4", TNT
 http://clubtv.link/jun01/phpcode/lista0.php?c=6&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", TNT SERIES
+#EXTINF:-1 group-title="Grupo 4", TNT SERIES
 http://clubtv.link/jun01/phpcode/lista0.php?c=5&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", AMC
+#EXTINF:-1 group-title="Grupo 4", AMC
 http://clubtv.link/jun01/phpcode/lista0.php?c=57&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", CINECANAL
+#EXTINF:-1 group-title="Grupo 4", TCM
+http://clubtv.link/jun01/phpcode/lista0.php?c=73&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 group-title="Grupo 4", CINECANAL
 http://clubtv.link/jun01/phpcode/lista0.php?c=50&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", CINEMAX
+#EXTINF:-1 group-title="Grupo 4", CINEMAX
 http://clubtv.link/jun01/phpcode/lista0.php?c=49&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", DISCOVERY CHANNEL
+#EXTINF:-1 group-title="Grupo 4", DISCOVERY CHANNEL
 http://clubtv.link/jun01/phpcode/lista0.php?c=47&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", DISCOVERY TURBO
+#EXTINF:-1 group-title="Grupo 4", DISCOVERY TURBO
 http://clubtv.link/jun01/phpcode/lista0.php?c=80&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", HISTORY CHANNEL
+#EXTINF:-1 group-title="Grupo 4", HISTORY CHANNEL
 http://clubtv.link/jun01/phpcode/lista0.php?c=19&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", NATGEO
+#EXTINF:-1 group-title="Grupo 4", NATGEO
 http://clubtv.link/jun01/phpcode/lista0.php?c=15&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", DISCOVERY ID
+#EXTINF:-1 group-title="Grupo 4", DISCOVERY ID
 http://clubtv.link/jun01/phpcode/lista0.php?c=18&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", DISCOVERY H&H
+#EXTINF:-1 group-title="Grupo 4", DISCOVERY H&H
 http://clubtv.link/jun01/phpcode/lista0.php?c=46&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", GOLDEN PLUS
+#EXTINF:-1 group-title="Grupo 4", GOLDEN PLUS
 http://clubtv.link/jun01/phpcode/lista0.php?c=26&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", GOLDEN PREMIER
+#EXTINF:-1 group-title="Grupo 4", GOLDEN PREMIER
 http://clubtv.link/jun01/phpcode/lista0.php?c=25&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", PARAMOUNT CHANNEL
+#EXTINF:-1 group-title="Grupo 4", PARAMOUNT CHANNEL
 http://clubtv.link/jun01/phpcode/lista0.php?c=12&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", FX
+#EXTINF:-1 group-title="Grupo 4", FX
 http://clubtv.link/jun01/phpcode/lista0.php?c=27&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", UNIVISION
+#EXTINF:-1 group-title="Grupo 4", UNIVISION
 http://clubtv.link/jun01/phpcode/lista0.php?c=3&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", SONY
+#EXTINF:-1 group-title="Grupo 4", SONY
 http://clubtv.link/jun01/phpcode/lista0.php?c=11&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", A&E
+#EXTINF:-1 group-title="Grupo 4", A&E
 http://clubtv.link/jun01/phpcode/lista0.php?c=58&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", WARNER
+#EXTINF:-1 group-title="Grupo 4", WARNER
 http://clubtv.link/jun01/phpcode/lista0.php?c=2&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", TELEMUNDO
+#EXTINF:-1 group-title="Grupo 4", TELEMUNDO
 http://clubtv.link/jun01/phpcode/lista0.php?c=7&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", LIFE TIME
+#EXTINF:-1 group-title="Grupo 4", LIFE TIME
 http://clubtv.link/jun01/phpcode/lista0.php?c=33&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", STAR CHANNEL
+#EXTINF:-1 group-title="Grupo 4", STAR CHANNEL
 http://clubtv.link/jun01/phpcode/lista0.php?c=37&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", TLNOVELAS
+#EXTINF:-1 group-title="Grupo 4", TLNOVELAS
 http://clubtv.link/jun01/phpcode/lista0.php?c=69&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", STUDIO UNIVERSAL
+#EXTINF:-1 group-title="Grupo 4", STUDIO UNIVERSAL
 http://clubtv.link/jun01/phpcode/lista0.php?c=70&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", RCN
+#EXTINF:-1 group-title="Grupo 4", RCN
 http://clubtv.link/jun01/phpcode/lista0.php?c=71&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", CINE DINAMITA
+#EXTINF:-1 group-title="Grupo 4", CINE DINAMITA
 http://clubtv.link/jun01/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", CARACOL
+#EXTINF:-1 group-title="Grupo 4", CARACOL
 http://clubtv.link/jun01/phpcode/lista0.php?c=86&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", DISNEY CHANNEL
+#EXTINF:-1 group-title="Grupo 4", DISNEY CHANNEL
 http://clubtv.link/jun01/phpcode/lista0.php?c=44&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", DISCOVERY KIDS
+#EXTINF:-1 group-title="Grupo 4", DISCOVERY KIDS
 http://clubtv.link/jun01/phpcode/lista0.php?c=45&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", CARTOON NETWORK
+#EXTINF:-1 group-title="Grupo 4", CARTOON NETWORK
 http://clubtv.link/jun01/phpcode/lista0.php?c=51&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", NICK  JR
+#EXTINF:-1 group-title="Grupo 4", NICK  JR
 http://clubtv.link/jun01/phpcode/lista0.php?c=13&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", DISNEY JR
+#EXTINF:-1 group-title="Grupo 4", DISNEY JR
 http://clubtv.link/jun01/phpcode/lista0.php?c=43&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zMovies", DE PELICULA
+#EXTINF:-1 group-title="Grupo 2", DE PELICULA
 http://clubtv.link/jun01/phpcode/lista0.php?c=48&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", ESPN 1 MX
+#EXTINF:-1 group-title="Grupo 3", ESPN 1 MX
 http://clubtv.link/jun01/phpcode/lista0.php?c=41&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", ESPN 2 MX
+#EXTINF:-1 group-title="Grupo 3", ESPN 2 MX
 http://clubtv.link/jun01/phpcode/lista0.php?c=40&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", ESPN 3 MX
+#EXTINF:-1 group-title="Grupo 3", ESPN 3 MX
 http://clubtv.link/jun01/phpcode/lista0.php?c=39&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", FOX SPORTS 3 MX
+#EXTINF:-1 group-title="Grupo 3", FOX SPORTS 3 MX
 http://clubtv.link/jun01/phpcode/lista0.php?c=28&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", WWE NETWORK
+#EXTINF:-1 group-title="Grupo 3", WWE NETWORK
 http://clubtv.link/jun01/phpcode/lista0.php?c=65&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", WIN SPORTS
+#EXTINF:-1 group-title="Grupo 3", WIN SPORTS
 http://clubtv.link/jun01/phpcode/lista0.php?c=67&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", ESPN SUR
+#EXTINF:-1 group-title="Grupo 3", ESPN SUR
 http://clubtv.link/jun01/phpcode/lista0.php?c=77&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", ESPN 2 SUR
+#EXTINF:-1 group-title="Grupo 3", ESPN 2 SUR
 http://clubtv.link/jun01/phpcode/lista0.php?c=79&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", ESPN 3 SUR
+#EXTINF:-1 group-title="Grupo 3", ESPN 3 SUR
 http://clubtv.link/jun01/phpcode/lista0.php?c=78&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", CLARO SPORTS
+#EXTINF:-1 group-title="Grupo 3", CLARO SPORTS
 http://clubtv.link/jun01/phpcode/lista0.php?c=82&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", Az Cinema
+#EXTINF:-1 group-title="Grupo 4", Az Cinema
 http://clubtv.link/jun01/phpcode/lista0.php?c=89&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", Az Corazon
+#EXTINF:-1 group-title="Grupo 4", AZ MUNDO
+http://clubtv.link/jun01/phpcode/lista0.php?c=87&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 group-title="Grupo 4", Az Corazon
 http://clubtv.link/jun01/phpcode/lista0.php?c=88&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", Boomerang
+#EXTINF:-1 group-title="Grupo 4", Boomerang
 http://clubtv.link/jun01/phpcode/lista0.php?c=53&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", fox sports 2 mx
+#EXTINF:-1 group-title="Grupo 3", fox sports 2 mx
 http://clubtv.link/jun01/phpcode/lista0.php?c=29&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zMovies", Hbo 2
+#EXTINF:-1 group-title="Grupo 2", Hbo 2
 http://clubtv.link/jun01/phpcode/lista0.php?c=23&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium", Nick
+#EXTINF:-1 group-title="Grupo 4", Nick
 http://clubtv.link/jun01/phpcode/lista0.php?c=92&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zDeportes", Tigo Sport
+#EXTINF:-1 group-title="Grupo 3", Tigo Sport
 #http://clubtv.link/jun01/phpcode/lista0.php?c=62&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 group-title="zPremium",Nickelodeon
+#EXTINF:-1 group-title="Grupo 4",Nickelodeon
 http://clubtv.link/jun01/phpcode/lista3.php?c=a038&token=TecnoplusJunio03&f=.m3u8
 
-#EXTINF:-1 group-title="zDeportes",BeIN SPORTS XTRA En Espanol
+#EXTINF:-1 group-title="Grupo 3",BeIN SPORTS XTRA En Espanol
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
-#EXTINF:-1 group-title="zDeportes",Fox Sports en Espanol (720p)
+#EXTINF:-1 group-title="Grupo 3",Fox Sports en Espanol (720p)
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
-#EXTINF:-1 group-title="NonGroup",MovieSphere (720p)
+#EXTINF:-1 group-title="Grupo 9",MovieSphere (720p)
 https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
-#EXTINF:-1 group-title="NonGroup",MovieSphere Canada (1080p)
+#EXTINF:-1 group-title="Grupo 9",MovieSphere Canada (1080p)
 https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2.m3u8
-#EXTINF:-1 group-title="NonGroup",Canal 33 Tijuana (720p)
+#EXTINF:-1 group-title="Grupo 9",Canal 33 Tijuana (720p)
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
