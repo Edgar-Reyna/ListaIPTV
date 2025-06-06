@@ -1195,3 +1195,28 @@ https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
 https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2.m3u8
 #EXTINF:-1 group-title="Grupo 9",Canal 33 Tijuana (720p)
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
+#EXTINF:-1 group-title="zzz",MICH: SMRT
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 group-title="zzz",MOR: 15.1
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-1 group-title="zzz",QOO: SIPSE
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 group-title="zzz",YUC: SIPSE
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:-1 group-title="zzz",Radio 3
+https://ztnr.rtve.es/ztnr/6982918.m3u8
+#EXTINF:-1 group-title="zzz",MOTORVISION.TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6152
+#EXTINF:-1 group-title="zzz",TELEVISA NOVELAS 
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
+#EXTINF:-1 group-title="zzz",UNIVISION NOTICIAS VX
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="zzz",SABER MÁS 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+#EXTINF:-1 group-title="zzz",EL PAIS
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 group-title="zzz",TVE INT AMERICA 
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+#EXTINF:-1 group-title="zzz",STAR TVE AMERICA HD 
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
