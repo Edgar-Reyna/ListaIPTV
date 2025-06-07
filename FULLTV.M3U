@@ -50,6 +50,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc0009
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 ,TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1 ,CANAL 44 Chihuahua
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
 #EXTINF:-1 ,HBO2
 http://190.60.37.154:45000/play/a052/index.m3u8
@@ -61,6 +63,12 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 ,Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 , CINE DINAMITA
+http://clubtv.link/0607ju/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , Hbo 2
+http://clubtv.link/0607ju/phpcode/lista0.php?c=23&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , DE PELICULA
+http://clubtv.link/0607ju/phpcode/lista0.php?c=48&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , UNIVERSAL CRIME
 http://clubtv.link/0607ju/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , UNIVERSAL CINEMA
@@ -137,12 +145,6 @@ http://clubtv.link/0607ju/phpcode/lista0.php?c=37&token=TecnoplusJunio03&f=.m3u8
 http://clubtv.link/0607ju/phpcode/lista0.php?c=69&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , STUDIO UNIVERSAL
 http://clubtv.link/0607ju/phpcode/lista0.php?c=70&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , CINE DINAMITA
-http://clubtv.link/0607ju/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , Hbo 2
-http://clubtv.link/0607ju/phpcode/lista0.php?c=23&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , DE PELICULA
-http://clubtv.link/0607ju/phpcode/lista0.php?c=48&token=TecnoplusJunio03&f=.m3u8
 
 
 #EXTINF:-1 ,Xtrema Animal
@@ -161,7 +163,9 @@ http://clubtv.link/0607ju/phpcode/lista0.php?c=41&token=TecnoplusJunio03&f=.m3u8
 http://clubtv.link/0607ju/phpcode/lista0.php?c=40&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , ESPN 3 MX
 http://clubtv.link/0607ju/phpcode/lista0.php?c=39&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , fox sports 2 mx
+#EXTINF:-1 , FOX SPORTS 1 MX
+http://clubtv.link/0607ju/phpcode/lista0.php?c=30&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , FOX SPORTS 2 mx
 http://clubtv.link/0607ju/phpcode/lista0.php?c=29&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , FOX SPORTS 3 MX
 http://clubtv.link/0607ju/phpcode/lista0.php?c=28&token=TecnoplusJunio03&f=.m3u8
@@ -197,8 +201,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 #EXTINF:-1 ,MX CLARO SPORTS
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 ,CANAL 44 Chihuahua
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 , Lucha Libre AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 , PTV E-Sports
