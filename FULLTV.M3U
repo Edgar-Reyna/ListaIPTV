@@ -39,7 +39,12 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 , RCG 1 Saltillo | MX
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 , UNIVISION
+http://clubtv.link/ju0614/phpcode/lista0.php?c=3&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , TELEMUNDO
+http://clubtv.link/ju0614/phpcode/lista0.php?c=7&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , TLNOVELAS
+http://clubtv.link/ju0614/phpcode/lista0.php?c=69&token=TecnoplusJunio03&f=.m3u8
 
 #EXTINF:-1 , Minuto Para Ganar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -155,6 +160,10 @@ http://clubtv.link/ju0614/phpcode/lista0.php?c=49&token=TecnoplusJunio03&f=.m3u8
 http://clubtv.link/ju0614/phpcode/lista0.php?c=47&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , DISCOVERY TURBO
 http://clubtv.link/ju0614/phpcode/lista0.php?c=80&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , DISCOVERY THEATER
+http://clubtv.link/ju0614/phpcode/lista1.php?c=a02l&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , DISCOVERY WORD
+http://clubtv.link/ju0614/phpcode/lista1.php?c=a02n&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , DISCOVERY ID
 http://clubtv.link/ju0614/phpcode/lista0.php?c=18&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , DISCOVERY H&H
@@ -167,22 +176,16 @@ http://clubtv.link/ju0614/phpcode/lista0.php?c=25&token=TecnoplusJunio03&f=.m3u8
 http://clubtv.link/ju0614/phpcode/lista0.php?c=12&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , FX
 http://clubtv.link/ju0614/phpcode/lista0.php?c=27&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , UNIVISION
-http://clubtv.link/ju0614/phpcode/lista0.php?c=3&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , SONY
 http://clubtv.link/ju0614/phpcode/lista0.php?c=11&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , A&E
 http://clubtv.link/ju0614/phpcode/lista0.php?c=58&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , WARNER
 http://clubtv.link/ju0614/phpcode/lista0.php?c=2&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , TELEMUNDO
-http://clubtv.link/ju0614/phpcode/lista0.php?c=7&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , LIFE TIME
 http://clubtv.link/ju0614/phpcode/lista0.php?c=33&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , STAR CHANNEL
 http://clubtv.link/ju0614/phpcode/lista0.php?c=37&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , TLNOVELAS
-http://clubtv.link/ju0614/phpcode/lista0.php?c=69&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , STUDIO UNIVERSAL
 http://clubtv.link/ju0614/phpcode/lista0.php?c=70&token=TecnoplusJunio03&f=.m3u8
 
@@ -243,12 +246,12 @@ https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
 #EXTINF:-1 ,E Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 ,ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 ,PTV COMPETENCIAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=4130ed0c-cd23-11eb-8382-0242ac110002&sid=4130ed0c-cd23-11eb-8382-0242ac110002&userId=
 #EXTINF:-1 ,PTV WIPEOUT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=68155ab1-cd23-11eb-af82-0242ac110002&sid=68155ab1-cd23-11eb-af82-0242ac110002&userId=
-#EXTINF:-1 ,ITV Deportes
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 
 #EXTINF:-1 ,PTV CINE ACCION
@@ -1236,10 +1239,3 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 #EXTINF:-1 ,STAR TVE AMERICA HD 
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-
-#EXTINF:-1 , DISCOVERY THEATER
-http://clubtv.link/ju0614/phpcode/lista1.php?c=a02l&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , CRONICA TV
-http://clubtv.link/ju0614/phpcode/lista1.php?c=a04k&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , DISCOVERY WORD
-http://clubtv.link/ju0614/phpcode/lista1.php?c=a02n&token=TecnoplusJunio03&f=.m3u8
