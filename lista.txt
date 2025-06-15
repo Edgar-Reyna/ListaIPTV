@@ -12,6 +12,7 @@ N+ MTY,https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3
 AMX Noticias, https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 C4 En Alerta, https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 Telemundo,https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+CANAL 26 AGS,http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
 ITV Deportes,https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 AYM Sports, https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
