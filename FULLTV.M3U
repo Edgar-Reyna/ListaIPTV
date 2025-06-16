@@ -67,11 +67,54 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playl
 #EXTINF:-1 ,PTV NICK ANIMALES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=68ca370d-cd25-11eb-8a72-0242ac110002&sid=68ca370d-cd25-11eb-8a72-0242ac110002&userId=
 #EXTINF:-1 , ANIMAL PLANET
+http://190.216.158.199:8000/play/a00h/index.m3u8
+#EXTINF:-1 , ANIMAL PLANET OP2
 http://clubtv.link/ju0614/phpcode/lista0.php?c=56&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , HISTORY CHANNEL
 http://clubtv.link/ju0614/phpcode/lista0.php?c=19&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , NATGEO
 http://clubtv.link/ju0614/phpcode/lista0.php?c=15&token=TecnoplusJunio03&f=.m3u8
+
+
+#EXTINF:-1 ,TNT
+http://190.216.158.199:8000/play/a02j/index.m3u8
+#EXTINF:-1 ,HBO2
+http://190.60.37.154:45000/play/a052/index.m3u8
+#EXTINF:-1 ,WARNER
+http://190.216.158.199:8000/play/a00m/index.m3u8
+#EXTINF:-1 ,WARNER HD OP2
+http://200.59.188.3:8000/play/a00h
+#EXTINF:-1 ,TNT SERIES
+http://190.216.158.199:8000/play/a00l/index.m3u8
+#EXTINF:-1 ,US CANAL 57
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,SPACE
+http://190.216.158.199:8000/play/a01r/index.m3u8
+#EXTINF:-1 ,Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 ,Uranio TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 , Hbo 2
+http://clubtv.link/ju0614/phpcode/lista0.php?c=23&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , SONY HD
+http://clubtv.link/ju0614/phpcode/lista2.php?c=a03h&f=.m3u8&token=TecnoplusJunio03
+#EXTINF:-1 , SONY MOVIES HD
+http://clubtv.link/ju0614/phpcode/lista2.php?c=a03i&f=.m3u8&token=TecnoplusJunio03
+#EXTINF:-1 , Cinecanal
+http://clubtv.link/ju0614/phpcode/lista4.php?c=a007&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , Cinemax
+http://clubtv.link/ju0614/phpcode/lista4.php?c=a020&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , DE PELICULA
+http://clubtv.link/ju0614/phpcode/lista0.php?c=48&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , CINE DINAMITA
+http://clubtv.link/ju0614/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 ,USA NETWORK
+http://190.216.158.199:8000/play/a00g/index.m3u8
+#EXTINF:-1 ,ESTUDIO UNIVERSAL
+http://190.216.158.199:8000/play/a02m/index.m3u8
+#EXTINF:-1 ,SONY CHANNEL
+http://190.216.158.199:8000/play/a00k/index.m3u8
+
 
 #EXTINF:-1 ,DISCOVERY KIDS  
 http://177.93.46.163:8000/play/a00k
@@ -99,23 +142,6 @@ http://clubtv.link/ju0614/phpcode/lista0.php?c=51&token=TecnoplusJunio03&f=.m3u8
 http://clubtv.link/ju0614/phpcode/lista0.php?c=13&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , DISNEY JR
 http://clubtv.link/ju0614/phpcode/lista0.php?c=43&token=TecnoplusJunio03&f=.m3u8
-
-#EXTINF:-1 ,HBO2
-http://190.60.37.154:45000/play/a052/index.m3u8
-#EXTINF:-1 ,WARNER HD OP2
-http://200.59.188.3:8000/play/a00h
-#EXTINF:-1 ,US CANAL 57
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:-1 ,Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 ,Uranio TV
-https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 , CINE DINAMITA
-http://clubtv.link/ju0614/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , Hbo 2
-http://clubtv.link/ju0614/phpcode/lista0.php?c=23&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , DE PELICULA
-http://clubtv.link/ju0614/phpcode/lista0.php?c=48&token=TecnoplusJunio03&f=.m3u8
 
 
 #EXTINF:-1 , UNIVERSAL CRIME
@@ -156,6 +182,8 @@ http://clubtv.link/ju0614/phpcode/lista0.php?c=50&token=TecnoplusJunio03&f=.m3u8
 http://clubtv.link/ju0614/phpcode/lista0.php?c=49&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , DISCOVERY CHANNEL
 http://clubtv.link/ju0614/phpcode/lista0.php?c=47&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , DISCOVERY CHANNEL OP2
+http://190.216.158.199:8000/play/a00o/index.m3u8
 #EXTINF:-1 , DISCOVERY TURBO
 http://clubtv.link/ju0614/phpcode/lista0.php?c=80&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , DISCOVERY THEATER
@@ -1221,6 +1249,8 @@ https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:-1 ,QOO: SIPSE
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 , VER: RTV  VERACRUZ
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 ,YUC: SIPSE
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 ,Radio 3
@@ -1244,23 +1274,15 @@ http://clubtv.link/ju0614/phpcode/lista2.php?c=a01x&f=.m3u8&token=TecnoplusJunio
 http://clubtv.link/ju0614/phpcode/lista2.php?c=a003&f=.m3u8&token=TecnoplusJunio03
 #EXTINF:-1 , EL GOURMET
 http://clubtv.link/ju0614/phpcode/lista2.php?c=a04w&f=.m3u8&token=TecnoplusJunio03
-#EXTINF:-1 , SONY HD
-http://clubtv.link/ju0614/phpcode/lista2.php?c=a03h&f=.m3u8&token=TecnoplusJunio03
-#EXTINF:-1 , SONY MOVIES HD
-http://clubtv.link/ju0614/phpcode/lista2.php?c=a03i&f=.m3u8&token=TecnoplusJunio03
-#EXTINF:-1 , Cinecanal
-http://clubtv.link/ju0614/phpcode/lista4.php?c=a007&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , Cinemax
-http://clubtv.link/ju0614/phpcode/lista4.php?c=a020&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , City TV
 http://clubtv.link/ju0614/phpcode/lista4.php?c=a01w&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , ViaX
 http://clubtv.link/ju0614/phpcode/lista4.php?c=a018&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , Win
 http://clubtv.link/ju0614/phpcode/lista4.php?c=a026&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , CINECANAL HD
-http://clubtv.link/ju0614/phpcode/lista5.php?c=a025&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 , CINEMAX HD
-http://clubtv.link/ju0614/phpcode/lista5.php?c=a02b&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 , Deporte Py+
 http://clubtv.link/ju0614/phpcode/lista5.php?c=a061&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 ,PIGUINO TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 , MILITARY HISTORY
+http://fl3.moveonjoy.com/Military_History/index.m3u8
