@@ -1238,3 +1238,29 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 #EXTINF:-1 ,STAR TVE AMERICA HD 
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
+#EXTINF:-1 , AMERICA TV 
+http://clubtv.link/ju0614/phpcode/lista2.php?c=a01x&f=.m3u8&token=TecnoplusJunio03
+#EXTINF:-1 , Cartoonito HD
+http://clubtv.link/ju0614/phpcode/lista2.php?c=a003&f=.m3u8&token=TecnoplusJunio03
+#EXTINF:-1 , EL GOURMET
+http://clubtv.link/ju0614/phpcode/lista2.php?c=a04w&f=.m3u8&token=TecnoplusJunio03
+#EXTINF:-1 , SONY HD
+http://clubtv.link/ju0614/phpcode/lista2.php?c=a03h&f=.m3u8&token=TecnoplusJunio03
+#EXTINF:-1 , SONY MOVIES HD
+http://clubtv.link/ju0614/phpcode/lista2.php?c=a03i&f=.m3u8&token=TecnoplusJunio03
+#EXTINF:-1 , Cinecanal
+http://clubtv.link/ju0614/phpcode/lista4.php?c=a007&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , Cinemax
+http://clubtv.link/ju0614/phpcode/lista4.php?c=a020&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , City TV
+http://clubtv.link/ju0614/phpcode/lista4.php?c=a01w&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , ViaX
+http://clubtv.link/ju0614/phpcode/lista4.php?c=a018&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , Win
+http://clubtv.link/ju0614/phpcode/lista4.php?c=a026&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , CINECANAL HD
+http://clubtv.link/ju0614/phpcode/lista5.php?c=a025&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , CINEMAX HD
+http://clubtv.link/ju0614/phpcode/lista5.php?c=a02b&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:-1 , Deporte Py+
+http://clubtv.link/ju0614/phpcode/lista5.php?c=a061&token=TecnoplusJunio03&f=.m3u8
