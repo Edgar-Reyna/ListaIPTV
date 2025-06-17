@@ -1286,3 +1286,10 @@ http://clubtv.link/ju0614/phpcode/lista5.php?c=a061&token=TecnoplusJunio03&f=.m3
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1 , MILITARY HISTORY
 http://fl3.moveonjoy.com/Military_History/index.m3u8
+
+#EXTINF:-1,History
+http://190.123.90.146:8000/play/a02n/index.m3u8
+#EXTINF:-1,History 2
+http://201.217.246.166:8000/play/a06n/index.m3u8
+#EXTINF:-1,E!
+http://201.217.246.166:8000/play/a08z/index.m3u8
