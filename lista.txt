@@ -1,4 +1,4 @@
-Canal 4 Mva, https://live.eu-north-1a.cf.dmcdn.net/sec2(AwGFGDfTc7DDL5chqozT64_VSHa5VbDfP8Qf2vFV33omLICtxWGtg54WQR2E81ZcFpn08GsBda1vPc9RXSLWjM5H9JM1R7FJ-pJkBGeSUFHvvTVF13ZHLlGJg-PGTjHT)/dm/3/x9sf0vq/d/live-720.m3u8
+Canal 4 Mva, https://live.eu-north-1a.cf.dmcdn.net/sec2(hhWeNKpYp3S_vROpjSwZnoFZaUxGcD13UJhbMLVHFJK83HHx0oUmhdRjygTHG_XXMxyFllORfm-A0maDdFDBBN95aNFkzoPRH9qEhf11KuM2FvDd0TLmVxqoEJUdc_WY)/dm/3/x9sf0vq/d/live-480.m3u8
 
 Las Estrellas,https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 Azteca Uno,https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
